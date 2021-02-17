@@ -26,16 +26,6 @@ div.menuA {text-align: center; font-size: 4em;}
  * em is also responsive: it is the width of the standard letter M in your font usually 16 px. 
  *  */
  
-<<<<<<< HEAD
- ul.menuB {
-  list-style-type: none;
-  
-}
-
-ul.menuB li {display:inline; font-size: 4vw; margin: .5em;
-  padding: 2vw;}
   
   
-=======
   
->>>>>>> aad2f85eae1f2b5f2312d514a56bce2a7984a13f
