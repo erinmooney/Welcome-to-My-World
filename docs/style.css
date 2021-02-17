@@ -1,10 +1,37 @@
+body {;color: indigo;
+font-family: arial, helvetica, sans-serif;}
+
+/* body section {background-image: linear-gradient(purple, orange);}*/
+
 body section section {
 background-color: Lavender;
-
-;color: indigo;
-font-family: arial, helvetica, sans-serif;
 }
+
+figure{width:30%;}
+img.photo {max-width:500px;width:100% }
+
+/* If I want to style ANY element with the class of "photo" I could just write 
+ *.photo{}
+ */
 
 ol {list-style-type: lower-alpha;
 padding: 5em;  
 }
+
+
+
+div.menuA {text-align: center; font-size: 4em;}
+/*  Units to try: em and vw. vw means a percentage of the viewport width 
+ * and is often used in responsive web design (responsive to size of device screens)
+ * em is also responsive: it is the width of the standard letter M in your font usually 16 px. 
+ *  */
+ 
+ ul.menuB {
+  list-style-type: none;
+  
+}
+
+ul.menuB li {display:inline; font-size: 4vw; margin: .5em;
+  padding: 2vw;}
+  
+  
