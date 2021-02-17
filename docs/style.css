@@ -8,7 +8,7 @@ background-color: Lavender;
 }
 
 figure{width:30%;}
-img.photo {max-width:500px;width:100% }
+img.photo {max-width:500px;width:50% }
 
 /* If I want to style ANY element with the class of "photo" I could just write 
  *.photo{}
