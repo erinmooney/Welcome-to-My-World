@@ -1,17 +1,37 @@
+body {;color: indigo;
+font-family: arial, helvetica, sans-serif;}
 
-body {
-background-color: /*BurlyWood*/ #99ccff;
-/* ebb: Looking for colors and color codes? Try the HTML color picker: https://www.w3schools.com/colors/colors_picker.asp */
-color: indigo;
-font-family: arial, helvetica, sans-serif;
+/* body section {background-image: linear-gradient(purple, orange);}*/
+
+body section section {
+background-color: Lavender;
 }
 
-/* ebb: This is a comment in CSS: 
- * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
- * If I want to change the styling of internal elements, I can just enter their names and apply CSS properties to them, following CSS syntax. 
+figure{width:30%;}
+img.photo {max-width:500px;width:100% }
+
+/* If I want to style ANY element with the class of "photo" I could just write 
+ *.photo{}
  */
 
 ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+padding: 5em;  
 }
+
+
+
+div.menuA {text-align: center; font-size: 4em;}
+/*  Units to try: em and vw. vw means a percentage of the viewport width 
+ * and is often used in responsive web design (responsive to size of device screens)
+ * em is also responsive: it is the width of the standard letter M in your font usually 16 px. 
+ *  */
+ 
+ ul.menuB {
+  list-style-type: none;
+  
+}
+
+ul.menuB li {display:inline; font-size: 4vw; margin: .5em;
+  padding: 2vw;}
+  
+  
