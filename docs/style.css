@@ -19,7 +19,6 @@ padding: 5em;
 }
 
 
-
 div.menuA {text-align: center; font-size: 4em;}
 /*  Units to try: em and vw. vw means a percentage of the viewport width 
  * and is often used in responsive web design (responsive to size of device screens)
