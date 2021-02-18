@@ -3,18 +3,54 @@ font-family: arial, helvetica, sans-serif;}
 
 /* body section {background-image: linear-gradient(purple, orange);}*/
 
+
+/* unvisited link */
+a:link {
+  color: darkblue;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: cornflowerblue;
+}
+
+/* selected link */
+a:active {
+  color: darkblue;
+}
+
+
 body section section {
 background-color: Lavender;
-}
+} 
+
+body section section {padding:1em}
 
 body section {
 background-color: Lavender;
 }
 
-section.gallery {background-color: Lavender}
+section.resume
+body section section {
+background-color: Lavender;
+} 
+body {background-color: Lavender}
 
-figure{width:30%;}
+section.gallery body section section {
+background-color: Lavender;
+} 
+body {background-color: Lavender}
+
+
+figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw}
+figcaption {font-style: italic; font-size: smaller}
 img.photo {max-width:500px;width:50% }
+
 
 /* If I want to style ANY element with the class of "photo" I could just write 
  *.photo{}
@@ -25,7 +61,7 @@ padding: 5em;
 }
 
 
-div.menuA {text-align: center; font-size: 3em;}
+div.menuA {text-align: center; font-size: 3vw;}
 /*  Units to try: em and vw. vw means a percentage of the viewport width 
  * and is often used in responsive web design (responsive to size of device screens)
  * em is also responsive: it is the width of the standard letter M in your font usually 16 px. 
