@@ -11,6 +11,8 @@ body section {
 background-color: Lavender;
 }
 
+section.gallery {background-color: Lavender}
+
 figure{width:30%;}
 img.photo {max-width:500px;width:50% }
 
