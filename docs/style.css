@@ -46,6 +46,11 @@ background-color: Lavender;
 } 
 body {background-color: Lavender}
 
+section.posts body section section {
+background-color: Lavender;
+} 
+body {background-color: Lavender}
+
 
 figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw}
 figcaption {font-style: italic; font-size: smaller}
