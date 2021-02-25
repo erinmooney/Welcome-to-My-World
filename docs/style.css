@@ -65,6 +65,13 @@ ol {list-style-type: lower-alpha;
 padding: 5em;  
 }
 
+div.newspaper
+ {
+  column-count: 2;
+  column-gap: 40px;
+  column-rule-style: solid;
+  column-rule: 1px double;
+}
 
 div.menuA {text-align: center; font-size: 3vw;}
 /*  Units to try: em and vw. vw means a percentage of the viewport width 
