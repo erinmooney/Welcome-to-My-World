@@ -54,7 +54,10 @@ body {background-color: Lavender}
 
 figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw}
 figcaption {font-style: italic; font-size: smaller}
-img.photo {max-width:500px;width:50% }
+img.photo {max-width:500px;width:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
 
 
 /* If I want to style ANY element with the class of "photo" I could just write 
