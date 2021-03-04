@@ -1,4 +1,4 @@
-body {;color: indigo;
+body {;color: #330066;
 font-family: arial, helvetica, sans-serif;}
 
 /* body section {background-image: linear-gradient(purple, orange);}*/
@@ -26,43 +26,50 @@ a:active {
 
 
 body section section {
-background-color: Lavender;
+background-color: #FFCCCC;
 } 
 
 body section section {padding:1em}
 
 body section {
-background-color: Lavender;
+background-color: #FFCCCC;
 }
 
 section.resume
 body section section {
-background-color: Lavender;
+background-color: #FFCCCC;
 } 
-body {background-color: Lavender}
+body {background-color: #FFCCCC}
 
 section.gallery body section section {
-background-color: Lavender;
+background-color: #FFCCCC;
 } 
-body {background-color: Lavender}
+body {background-color: #FFCCCC}
 
 section.posts body section section {
-background-color: Lavender;
+background-color: #FFCCCC;
 } 
-body {background-color: Lavender}
+body {background-color: #FFCCCC}
 
 
 figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw}
 figcaption {font-style: italic; font-size: smaller}
+
 img.photo {max-width:500px;width:50%;
   display: block;
   margin-left: auto;
   margin-right: auto;}
 
+img.right {float: right;
+max-width:500px;width:50%;
+  display: block;
+  margin-left: 80px}
 
 /* If I want to style ANY element with the class of "photo" I could just write 
  *.photo{}
  */
+
+p.solid {border-style: solid;}
 
 ol {list-style-type: lower-alpha;
 padding: 5em;  
