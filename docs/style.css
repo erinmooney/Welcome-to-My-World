@@ -26,30 +26,30 @@ a:active {
 
 
 body section section {
-background-color: #FFCCCC;
+background-color: Lavender;
 } 
 
 body section section {padding:1em}
 
 body section {
-background-color: #FFCCCC;
+background-color: Lavender;
 }
 
 section.resume
 body section section {
-background-color: #FFCCCC;
+background-color: Lavender;
 } 
-body {background-color: #FFCCCC}
+body {background-color: Lavender}
 
 section.gallery body section section {
-background-color: #FFCCCC;
+background-color: Lavender;
 } 
-body {background-color: #FFCCCC}
+body {background-color: Lavender}
 
 section.posts body section section {
-background-color: #FFCCCC;
+background-color: Lavender;
 } 
-body {background-color: #FFCCCC}
+body {background-color: Lavender}
 
 
 figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw}
@@ -78,9 +78,10 @@ padding: 5em;
 div.newspaper
  {
   column-count: 2;
-  column-gap: 40px;
+  column-gap: 35px;
   column-rule-style: solid;
   column-rule: 1px double;
+  margin: 20px;
 }
 
 div.menuA {text-align: center; font-size: 3vw;}
@@ -90,6 +91,48 @@ div.menuA {text-align: center; font-size: 3vw;}
  *  */
  
 h2 {text-align: center;}
+
+.seg {
+  background-color: #CCFFFF; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  width: 350px;
+  padding: 3px;
+  border: 3px;
+  margin: auto;
+}
+
+
+/* .seg li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}*/
   
+.para { 
+  list-style-type: none;
+  text-align: left;
+  width: 750px;
+  margin: auto;
+  padding: 35px;
+}
   
+  .parares { 
+  list-style-type: none;
+  text-align: left;
+  width: 850px;
+  margin: auto;
+  padding: 35px;
+}
+    
+.paratwo{ 
+  list-style-type: none;
+  text-align: left;
+  width: 950px;
+  margin: auto;
+  padding: 35px;
+}
   
