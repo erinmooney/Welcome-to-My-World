@@ -1,0 +1,1666 @@
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen 1
+Elfhunt
+A D&D 5E jungle adventure
+In the Jungles of Chult lies Camp Highmore, a trading place in the heart of the wilderness. Here the
+fittest rule, but an elf has recently tipped the scale of power by stealing secret military information.
+A group of adventurers are hired to track her down and bring her back to Camp Highmore.
+A 14-28 hour adventure for 5th level characters
+
+by JUSSI R. FOLTMAR SVENDSEN
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other
+Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards
+of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the
+express written permission of Wizards of the Coast.
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square,
+Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen 2
+Introduction
+Elfhunt is an adventure set in the Jungles of Chult in
+the Forgotten Realms. It is a standalone adventure
+for 5th level characters. The ideal party size is five
+characters. If your group is larger or smaller, you can
+easily adjust the adventures difficulty by increasing
+or decreasing the number of enemies present in a
+given encounter.
+Elfhunt is centered around the search and capture
+of an elven woman who has stolen secret military
+information from a group of humans in the Jungles
+of Chult. The adventure has a main story, which
+covers the search and capture of the elf, and a side
+story, which covers all the additional information
+and events the players can gather and experience
+within Camp Highmore.
+Character Advancement. This adventure was
+created without the use of experience points. Instead
+the milestone experience rule has been used, which
+means that once this adventure is concluded, the
+players should gain a level. Feel free to use standard
+experience points at your own discretion.
+Background
+Camp Highmore is a human trading hub hidden in
+the Jungles of Chult. It is run by High Chief Highmore
+who has chiefs from other nearby tribes to handle
+other aspects of Camp Highmore. This includes Chief
+Filip who handles the guards and soldiers of Camp
+Highmore, and Chief Shandra who handles the more
+delicate aspects of the camp that requires a female
+touch.
+ Chief Filip has his hands full with the current
+outbreak of chaotic and insane rogues that plague
+the camp, led by a man called Tane Here. Meanwhile,
+Chief Shandra has her hands full with an old man
+called Johan Petry, who is completely infatuated
+with the beautiful young woman.
+ Unknown to most, Chief Filip and Chief Shandra
+are married. They are plotting against High Chief
+Highmore to gain power over Camp Highmore and
+all trade in the region. Tane Here and Johan Petry
+have both learned of this plot. Tane keeps a low
+profile while Johan is trying to get on Shandra’s good
+side without invoking Filip’s jealousy. Johan is an
+elderly man who hopes that if he assists in the
+scheming against High Chief Highmore, then he can
+have a wealthier retirement, possibly at Chief
+Shandra’s side.
+ Everything was going as planned, until the elf Imis
+Elvan learned about Filip and Shandra’s marriage
+and their plot to overthrow High Chief Highmore.
+Chief Filip had the guards arrest the elf, but Imis
+escaped Camp Highmore with proof. As a retired
+adventurer, Johan Petry knows many other
+adventurers and possibly the players as well, if not
+personally then by name or reputation. Chief
+Shandra has therefore contacted Johan and asked
+him to hire a group of adventurers to hunt down the
+elf Imis Elvan and bring her back to Camp Highmore
+under the pretense that she stole important military
+information.
+Overview
+The first act covers the introduction of the PCs, of
+three main NPCs and of the quest itself. The players
+will meet Johan Petry who gives them the quest to
+hunt down Imis Elvan. They can then either go
+directly out into the jungle to hunt down the elf,
+turning the adventure into a three act game, or they
+can seek out additional information in Camp
+Highmore, introducing the second and third
+characters: Chief Filip, Chief Shandra, or Tane Here,
+depending on where the players seek out additional
+information.
+ Act 2 begins after the introduction of Chief Filip.
+After the players have investigated the scene of the
+crime where Imis Elvan allegedly stole the military
+information, Chief Filip will meet with Johan Petry.
+Chief Filip is worried that the players may uncover
+their scheme against High Chief Highmore and with
+the help of Johan Petry, he frames the players and
+arrests them. During the trial, however, Tane Here
+and his gang of rogues rescue the players, mainly
+due to their chaotic nature.
+ Act 3 begins after the players meet Tane Here for
+the first time. They learn a lot about the political
+intrigues in Camp Highmore and Tane suggests that
+the players seek out the elf Imis Elvan to gather the
+proof that she has against Chief Filip and Chief
+Shandra. Unfortunately, Chief Filip has already
+framed the players, whether they have been arrested
+or not, and thus they will have to sneak their way
+out of Camp Highmore.
+ Act 4 covers the players hunt for Imis Elvan, which
+takes them on a journey through the Jungles of Chult
+and into the Feywild, where they encounter a
+mysterious labyrinth defended by minotaurs.
+ Act 5 takes place in the heart of the labyrinth
+where the players meet the elf Imis Elvan. This may
+escalate into a final conflict to capture her and bring
+her back to Camp Highmore, or to a deal that brings
+the players back to Camp Highmore with proof
+against Chief Filip, who won’t go down without a
+fight.
+ The adventure concludes with two possible
+endings depending on the information the players
+have gathered and their choices throughout the
+adventure.
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen 3
+Act 1: Prologue
+No details about Camp Highmore has been created on
+purpose to let you create your own unique settlement
+within the Jungles of Chult. Personally, I ran an
+adventure prior to this one where the players got to
+know the camp, its inhabitants, surroundings, and
+even got to influence its setup and setting. There are
+certain things necessary for this specific adventure,
+however, which includes Character Hooks, Points of
+Interests, and NPCs. The NPCs of note are described
+specifically under their own scenes, which also
+includes a more in depth description of the Points of
+Interests.
+Character Hooks
+The players are all part of the Tribe of the Black
+Phoenix, which have a permanent residence in Camp
+Highmore due to their reputable adventurers, which
+also include Johan Petry. Johan contacts the players
+and hires them to hunt down and capture the elf Imis
+Elvan. The meeting with Johan is described in Scene
+1: The Beginning.
+ A large variety of character hooks can be used for
+this adventure so feel free to change the hook to suit
+the party.
+Points of Interests
+Feel free to create your own version of Camp
+Highmore, but note that the following points of
+interests within the camp should be present.
+1. Johan Petry’s House
+Whether you’re using the hook described above or
+not, Johan Petry needs a place to live. This location is
+up to you, but if in doubt, use the description in Act 1
+Scene 1: The Beginning.
+2. House of Chiefs
+A structure where the various chiefs meet with each
+other and with various people is also a good idea for
+such a large camp as Camp Highmore. This could be
+High Chief Highmore’s personal abode or not. The
+important aspect of the House of Chiefs is that it is
+used both to introduce Chief Shandra and as a stage
+for the players’ trial if they are arrested. The House of
+Chiefs is described in Act 1 Scene 2: Meeting at the
+House of Chiefs.
+3. Barracks
+Camp Highmore has a relatively large population,
+which therefore requires guards and soldiers,
+especially since the surrounding jungle is very hostile.
+Chief Filip has been given the task to oversee the
+guards and soldiers, and it is therefore here that the
+players will meet Chief Filip. It is also here that the
+players can investigate the scene of the crime, where
+the military information has allegedly been stolen
+from. More about the barracks is described in Act 1
+Scene 3: Investigation at the Barracks.
+4. Dungeon
+At some point the players may be framed and
+arrested. They will be put into a cell in an
+underground cave, which serves as the camp’s
+dungeon. From here the players may try to escape, or
+they may simply wait for their trial at the House of
+Chiefs. More about the dungeon is described in Act 2
+Scene 2: The Prison.
+5. Thieves’ Hideout
+Some players may have a criminal background or
+means to gather information from criminals in town.
+They may even go so far as get rescued by the rogues
+in town during their trial. In any case they will be led
+to a hidden hideout set in a nearby underground
+tunnel system used as a natural sewer. More about
+the Thieves’ Hideout is described in Act 3 Scene 1:
+Thieves’ Hideout.
+6. Palisades and Gate
+Picking up the trail of the elf Imis Elvan is very
+difficult within the camp, but the players quickly learn
+that Imis Elvan escaped outside the camp’s palisades.
+Searching for tracks at the gate to the camp will lead
+the players into the Jungles of Chult and on to their
+elfhunt. The gate is described in Act 4 Scene 1: The
+Gate. 
+Not for resale. Permission granted to print or photocopy this document for personal use only. Elfhunt by Jussi R. Foltmar Svendsen 4
+Scene 1: The Beginning
+The players are invited to Johan Petry’s House. If
+you’re using the character hook as described, then
+this house also serves as the residence to any
+members of the Tribe of the Black Phoenix, including
+the players. The house is a large wooden house with
+bedrooms to accommodate half a dozen people, a
+kitchen, an armory, training grounds, lounge, even a
+toilet connected to the local natural sewer, also
+known as underground caves. This scene takes place
+in the main hall.
+The large single-room hall has walls lined with trophies of
+monsters killed, most by Johan Petry. There’s an empty
+board on the wall and a quest book on the large oak table in
+the middle of the room, which is lit by a combination of
+sunlight from the large window across the hall and the large
+fireplace that roars and mainly gives light rather than heat.
+An elderly man approaches you and introduces himself as
+Johan Petry. He has a quest for you.
+Johan Petry
+Johan Petry (human veteran) is a thin old man with
+grey hair and a short grey beard. He was once a
+warrior, but his strength has failed him in his old days
+(Strength 11). What he lacks in physical strength he
+makes up in experience (Wisdom 16), which is
+something he gladly shares through stories, if he’s not
+asleep and snoring. He no longer
+wears his armor (AC 13), but he
+usually wields his two swords,
+and he stays close to a
+crossbow at all times.
+Ideal: Greed – Johan wants
+wealth and power to have a
+better retirement.
+Bond: Johan is in love with
+Chief Shandra, but he has
+never done anything about it
+because of the age difference
+and because he’s afraid to
+invoke Chief Filip’s jealousy.
+Flaw: Johan enjoys the
+decadent lifestyle and is in
+love with
+Chief Shandra, which he keeps a secret. He believes he
+can have it all if he was wealthier and more powerful.
+Intrigue: Johan is tired of being poor and powerless,
+and he has therefore agreed to assist Chief Shandra
+and Chief Filip in their scheme to wrest power from
+High Chief Highmore.
+The Quest
+Johan Petry hires the players to track down an elf
+woman called Imis Elvan who has fled from the camp
+into the jungle and bring her back to the custody of
+Chief Filip.
+ The players should have the opportunity to
+question Johan Petry about the quest and its reward.
+This can be done through roleplay or through the use
+of Intelligence (Investigation) and Wisdom
+(Insight) checks.  Imis Elvan is a wood elf illusionist with the
+capability to cast Cone of Cold. Her signature spell,
+however, is Mirror Image, which she combines with
+Misty Step and Magic Missile.  Imis Elvan stole secret military information at the
+barracks from Chief Filip, the chief in charge of the
+military in Camp Highmore. (False but Johan
+doesn’t know that it’s not the truth).  Chief Shandra has asked Johan to hire adventurers
+to track down and capture Imis Elvan. The guards
+already tried to stop her before she escaped, and
+now a group of adventurer would be more reliable
+than the military.  Imis Elvan was chased out of town by the guards
+who lost her trail at the gates.
+The party now has four choices.
+1. Go speak with Chief Shandra at the House of Chiefs
+about why she has hired adventurers, what
+information was stolen, and who this Imis Elvan is.
+See Act 1 Scene 2: Meeting at the House of Chiefs
+for more information.
+2. Go speak with Chief Filip at the barracks to
+investigate the scene
+of the crime, learn more about Imis Elvan, and
+possibly pick up her trail. See Act 1 Scene 3:
+Investigation at the Barracks for more information.
+3. Gathering information in any other way should
+attract the attention of Tane Here and his rogues,
+who secretly leads them to the thieves’ hideout. See
+Act 3 Scene 1: Thieves’ Hideout for more
+information.
+4. Go to the gate to pick up Imis Elvan’s trail. See Act 4
+Scene 1: The Gate for more information.
+Not for resale. Permission granted to print or photocopy this document for personal use only. Elfhunt by Jussi R. Foltmar Svendsen 5
+Scene 2: Meeting at the House of Chiefs
+If the players wish to speak with their real quest
+giver, then they need to contact Chief Shandra. They
+can usually get an audience with her at the House of
+Chiefs during the day.
+You walk up the wooden steps and in through the arch that
+leads into the large circular wooden fortress reinforced
+with skins, hides, and leathers. Inside the House of Chiefs
+are two halls that go left and right. Both turned around
+along the outer edge of the building and lead into the
+central circular chamber. You stand in an empty round
+room with a dais a few feet up all around you. Chiefs stand
+on the higher level so that they always look down upon
+others while the High Chief sits in the large ivory throne
+adorned with skins and a roaring fire a few feet behind it.
+Here you meet Chief Shandra.
+Chief Shandra
+Shandra (human noble) is a beautiful young woman
+with a lot of political power (Charisma 18). She is the
+daughter of a tribal chieftain and married Chief Filip a
+few years ago to combine her own tribe with Filip’s
+tribe, the Tribe of the Moonweavers. Very few in
+Camp Highmore knows about this union. Shandra has
+long black hair and piercing blue eyes. She is naïv
+(Wisdom 9), which becomes obvious when she talks
+even though her tone is always
+very friendly. Though she has
+learned to wield arms and
+armor, she prefers pretty
+dresses (AC 11) and leaves
+the swords in the hands of
+men. Her political
+background means that
+she’s fluent in several
+languages (Common,
+Chultan, Elven, Dwarvish,
+and Halfling).
+Ideal: Dominance – Shandra
+wants to rule over
+everyone.
+Bond: Shandra is dedicated
+to ruling Camp Highmore and
+the surrounding region,
+which failed when she
+couldn’t marry High Chief Highmore.
+Flaw: It was Shandra and her husband Filip which
+started the corruption in Camp Highmore, which is
+now being threatened by an elven woman called Imis
+Elvan.
+Intrigue: Shandra’s and Filip’s flaws explains the
+intrigues of these two characters.
+Speaking with Shandra reveals her naivety. She seems
+to know a lot less than expected. Let the players make
+Intelligence (Investigation), Wisdom (Insight), and
+Charisma (Persuasion) checks or simply roleplay
+the following information.  When Filip failed to capture Imis Elvan he was
+furious. As he consulted Shandra about their next
+move he mentioned that maybe they should just say
+that Imis stole secret military information, which
+Shandra believed. She therefore suggested to hire
+adventurers to capture Imis and recover the stolen
+information. Filip thought this was a good idea, so
+he sent her over to Johan so that he would hire
+adventurers. When the players ask Shandra about
+the quest, she doesn’t understand that she gave
+anyone a quest, since it was Johan who gave a quest
+at Filip’s suggestion.  Shandra never mentions or hints that she’s married
+to Filip.  When pushed for information, Shandra explains
+that she will ask the other chiefs in the camp and
+try to get to the bottom of whatever the players are
+asking. She suggests that they return again the next
+day.
+The party now has four choices.
+1. Go speak with Chief Filip at the barracks to
+investigate the scene of the crime, learn more about
+Imis Elvan, and possibly pick up her trail. See Act 1
+Scene 3: Investigation at the Barracks for more
+information.
+2. Wait a day for Chief Shandra to gather additional
+information. The second meeting with her is
+explained in Act 2 Scene 1: The Arrest.
+3. Gathering information in any other way should
+attract the attention of Tane Here and his rogues,
+who secretly leads them to the thieves’ hideout. See
+Act 3 Scene 1: Thieves’ Hideout for more
+information.
+4. Go to the gate to pick up Imis Elvan’s trail. See Act 4
+Scene 1: The Gate for more information.
+Not for resale. Permission granted to print or photocopy this document for personal use only. Elfhunt by Jussi R. Foltmar Svendsen 6
+Scene 3: Investigation at the Barracks
+If the players wish to see the scene of the crime and
+investigate it or question Chief Filip, the man in
+charge of the guards that chased Imis Elvan out of
+town, then the players will have to go to the barracks.
+The barracks is nothing more than a large dirt training
+grounds with large skin tents set up to accommodate the
+guards and soldiers of Camp Highmore. There are tents for
+sleeping, eating, even for the toilet, armory, and the chief’s
+personal office. You are led by two guards into the largest
+tent to speak with Chief Filip. The inside of the tent is richly
+furnished with chests, armors, weapons, and a large
+wooden desk with Chief Filip sitting in a chair behind it.
+Chief Filip
+Filip is a strong man with long dirty black hair and
+beard and a scar in his face. He’s very authoritarian
+and intimidating, which anyone quickly notices when
+speaking with him. He is the chief of the Tribe of the
+Moonweavers, which is currently being led by his
+brother while he handles the military in Camp
+Highmore under orders by High Chief Highmore. He is
+married to Chief Shandra, but the union is a secret to
+most in the camp. Shandra takes care of the politics in
+the camp while Filip takes care of the military. This is
+mainly because Filip is a strong man while his wife is
+an influential politician. Filip usually walks around in
+his half-plate wielding his axe.
+Ideal: Perfection – Filip wants
+perfection in everything.
+Bond: Filip is normally a
+loyal man, but he believes
+that High Chief
+Highmore is poisoning
+the people and that he
+should have been chosen as
+the High Chief.
+Flaw: Filip has fits of rage,
+especially when he encounters
+disorder and chaos.
+ Intrigue: Filip was the
+ambitious man who wanted
+to overthrow the
+high chief
+to start
+with. He has spread the corruption throughout the
+camp, but now an elf woman called Imis Elvan has
+stolen proof of his plans to overthrow High Chief
+Highmore. To ensure that she doesn’t cause any
+problems, Filip will get back the proof that Imis stole
+and then dispose of her.
+Speaking with Filip and investigating the barracks
+reveals little information. Let the players do
+Intelligence (Investigation), Wisdom (Insight), Wisdom (Survival), and Charisma (Persuasion)
+checks or simply roleplay the following information.  The secret military information is classified, so Filip
+won’t talk more about it. The truth is that it’s
+personal information and not military information,
+but he never shares this with the players.  Investigating the barracks reveal little to no
+information since no theft ever occurred here. Imis
+Elvan stole her information from somewhere else,
+but Filip keeps to his story that it was military
+information from the barracks that was stolen.  The perpetrator is a wood elf called Imis Elvan.
+She’s an illusionist who studies the humans in the
+region, especially Camp Highmore. She has some
+area of effect spells such as Cone of Cold and
+Thunderwave, but her signature spell is Mirror
+Image, which she likes to combine with Misty Step
+and Magic Missile.  Filip and his guards caught Imis Elvan red handed
+and chased her to the gate. They shot at her with
+crossbows, and she killed a few guards with a Cone
+of Cold and Thunderwave before she escaped into
+the jungle. She was last seen just outside the gate.
+Whatever the players decide to do after their meeting
+with Chief Filip, they have angered him. He now fears
+that the players are snooping too much. He therefore
+quickly goes to Johan and tells him to frame the
+players. He then gathers a number of guards and
+meets the players at their next destination and arrests
+them for working with Imis Elvan. See Act 2 Scene 1:
+The Arrest for more information. 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen 7
+Act 2: Conflict
+The second act of the adventure only occurs if the
+players decide to investigate the crime scene or speak
+with Chief Filip before tracking down Imis Elvan or
+getting the attention of the rogues. Chief Filip will
+have Johan frame the players and then gather a
+number of guards to arrest the players. At best the
+players can escape and try to find Imis Elvan to get it
+all sorted. Worst case scenario the players will get
+caught, thrown into the dungeon, subjected to an
+unfair trial, only to have the act finish off with the
+rogues saving the party, leaving this act to seem like
+the players are losing an unwinnable game.
+ Note that act 2 can be skipped if the players catch
+the attention of the rogues before they meet with
+Chief Filip or if they go directly to the gate to pick up
+Imis Elvan’s tracks.
+ A note of caution. In my experience some players
+dislike the feeling that they don’t stand a chance. If
+you sense that your players are feeling frustrated or
+defeated, then you can skip ahead to act 3 to give
+them renewed hope. This should only be done as a
+last resort to avoid having the game crash and the
+group fall apart.
+Scene 1: The Arrest
+Once the players have met with Chief Filip, their next
+actions don’t really matter. Let them do whatever
+they want, but when they reach their next scene, a
+group of guards should arrive, consisting of 2 knights
+and 11 Highmore guards. This encounter should end
+up being impossible for the players to succeed, so if it
+ends in a fight, the guards simply knock the players
+unconscious when they reach 0 hit points instead of
+killing them.
+You see a dozen guards come marching up towards you in a
+stern and orderly fashion with their hide armors fastened
+and their spears held with pride. One of them in heavier
+armor cries out “You halt! You are under arrest for aiding
+and abetting in the theft and trade of secret military
+information. Drop your weapons and come with us or we will
+have no choice but to use force.”
+The party now has four choices.
+1. Do as the guards say by dropping their weapons
+and coming with them peacefully. The guards will
+lead the players into the dungeon where they will
+be searched and stripped of their weapons before
+being pushed into a common cell. See Act 2 Scene 2:
+The Prison for more information.
+2. If the party decides to fight, they will most likely
+fail. Instead of dying, they will be knocked
+unconscious, searched and stripped of their
+weapons, and wake up in a common cell in the
+dungeon. See Act 2 Scene 2: The Prison for more
+information.
+3. If the party fights and miraculously succeed at
+defeating the guards, then they will definitely be
+outlaws and will have to sneak their way through
+the camp unless they want another combat
+encounter with more guards. See Act 3 Scene 4:
+Stealth Escape for more information.
+4. If the party tries to make a run for it, then a chase
+begins. See Act 3 Scene 3: Flight for more
+information.
+Scene 2: The Prison
+Whether the players surrender to the guards in the
+previous scene, or fight and get knocked unconscious,
+then they will end up in the prison in the dungeon
+after being searched and stripped of their weapons.
+They are all thrown into a common cell.
+You have ended up in a cold and damp cell made of natural
+rock with iron bars blocking your exit. A tipped bucket lies
+in the corner of the cell, which is covered in straw. The
+smell is horrible and the dripping echo coming from the rest
+of the dungeon might eventually drive you insane.
+The players might want to attempt a jailbreak. You
+should allow them try. Here are three suggestions on
+how to escape from the prison.
+1. Only their weapons have been confiscated. Assume
+that any rogues in the party with a thieves’ tool
+kept it hidden from the guards, in which case they
+may now attempt a Dexterity (Thieves’ Tools) DC
+15 to try and pick the lock. If they fail their first
+throw, you shouldn’t let them succeed on later
+throws.
+2. The players may try to break or bend the bars,
+which requires a Strength check DC 20. This check
+can be done as a group check, and then simply
+roleplay that the player with the highest strength is
+the one that bends the bars. If the party fails, don’t
+let them succeed on later tries.
+3. The players may try to draw the attention of a
+nearby guard to steal the keys. Attracting the
+attention of the guard and distracting him requires
+a Charisma (Persuasion) check DC 15. Once he’s 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen 8
+distracted, a player will have to succeed at a
+Dexterity (Sleight of Hand) check DC 20. If the
+player fails by 5 or more, the guard notices the
+attempt and the player may not try to steal the keys
+from the guard again.
+This scene may end in one of two ways.
+1. The players succeed at escaping, in which case go to
+Act 3 Scene 3: Flight.
+2. The players are still in prison the next day, in which
+case go to Act 2 Scene 3: The Trial.
+Scene 3: The Trial
+If the players fail to escape from prison, they will
+eventually be handcuffed and escorted to the House
+of Chiefs to stand trial.
+A dozen guards handcuff and escort you to the House of
+Chiefs. As you step into the main circular hall, you are
+forced to stand in the middle while the chiefs stand up on
+the dais along the edge of the room. At the far end sits High
+Chief Highmore on his throne of wood and hide. Behind him
+roars a fire that lights the entire hall. The two exists behind
+you are guarded and a bell sounds the beginning of your
+trial.
+The party is accused of assisting and abetting in the
+theft and trade of secret military information. The
+charges and proofs gathered by Chief Filip, who is in
+charge of the military in Camp Highmore, show that
+the party has secretly been communicating with the
+wood elf Imis Elvan and planned the theft on the
+barracks, helping the elf get the information and flee
+from the camp. All of the information that Chief Filip
+is in possession of, comes from Johan Petry, who
+gathered the proof directly from the players
+somehow.
+ Let the players defend themselves during the trial.
+You can have them roll various checks to give the
+illusion that the trial actually matters. The trial is a
+farce and should go against the players, which
+eventually will lead to their execution. All of this
+won’t happen though, and even if the players defend
+themselves well, High Chief Highmore will still
+perceive them as criminals when the Thieves’ Guild
+attack the House of Chiefs and “rescues” the party.
+The party now has two choices.
+1. If the players fight the rogues that come barging
+into the House of Chiefs, they will most likely be
+executed after the trial, unless their defense was so
+good that they are found not guilty.
+2. If the players accept the rogues rescue and escape,
+then they are in for quite a chase.
+In either case, see more in the next scene.
+Scene 4: The Rescue
+Either when the players are about to make a good
+defense on their case that may tip the trial in their
+favor, or when it seems direst and they are about to
+be sentenced to death, 8 thugs barge into the House
+of Chiefs through various entrances.
+You suddenly hear glass shattering, skins being torn apart,
+guards shouting, and suddenly smoke and fog starts
+covering the circular hall. The sound of fighting erupts
+around you as you notice an unknown number of masked
+rogues fight their way past the guards. One of them comes
+close to you and starts unlocking your handcuffs. “You have
+been framed and this trial won’t end well. Come with us and
+we will take you to safety.”
+Many of the guards are preoccupied with the rogues,
+but in a confrontation the party will have to face 1
+knight and 6 Highmore guards. The best thing the
+players can do now is actually to follow the rogue and
+flee from the House of Chiefs through the smoke.
+ The rogues will lead the players through the camp
+and try to shake off the guards. Use the chase rules on
+page 252 of the Dungeon Master’s Guide. The knight
+and the 6 guards pursue the players and begin 90 feet
+behind them. If you want, you can prepare the chase
+beforehand, or you can run it spontaneously, giving
+the illusion that this wasn’t really planned.
+ When the party has defeated or escaped from the
+guards, the rogues will want to blindfold the players
+and carry them to the Thieves’ Hideout, which you
+can read more about in Act 3 Scene 1: Thieves’
+Hideout. Once at the hideout, the players will get all
+their weapons back since the rogues picked them up
+before rescuing the party from the House of Chiefs.
+Not for resale. Permission granted to print or photocopy this document for personal use only. Elfhunt by Jussi R. Foltmar Svendsen 9
+Act 3: Rising Action
+The third act of the adventure occurs when the
+players meet the leader of the thieves Tane Here. At
+this point the plot thickens and the action slowly
+rises. The players discover that the elf Imis Elvan is
+the key to unraveling the corruption in the camp.
+They will need to find her whether they want to turn
+her in or clear their name, but first they need to leave
+the camp and pick up her trail. Leaving the camp
+might prove more difficult than they expect,
+especially if they try to gather additional
+information or equipment before they leave.
+Scene 1: Thieves’ Hideout
+Whether the players are seeking alternative
+information in act 1 or incurred the wrath of Chief
+Filip in act 2, the rogues will contact the players.
+The party will be blindfolded and carried to the
+Thieves’ Hideout, which obviously is in the sewers,
+but the blindfolding and carrying will hide where in
+the sewers they are currently hiding.
+After an uncomfortable journey on the back of another man,
+you are brought into a cold, damp, smelly cave with running
+water. There’s only one place you know of near the camp,
+and that’s the natural caverns beneath the ground used as a
+natural sewer system. However, you don’t know where in
+the sewers you have been brought. When your blindfolds
+are taken off you find yourself facing a giggling man
+surrounded by tents and small fires, clearly the thieves’
+hideout.
+Tane Here
+Tane Here (human bandit captain) is an insane man
+who grew up outside the bounds of order and law.
+He’s very thin and his posture is strange. He has long
+brown hair and a disregarded moustache. His insanity
+has brought him through the ranks of the criminal
+world in the Jungles of Chult, which awards him a lot
+of power and respect. His clothes are ragged and
+dirty, and his armor could use some mending. Even
+though his posture indicates a deformity, he is agile
+and fast. He’s incredibly lucky (see the Lucky feat),
+but rarely uses it to his advantage. He prefers to use
+short sentences and uses words in the wrong context.
+He also changes topic very fast.
+Ideal: Change – Tane does strange and crazy things,
+mostly driven by a desire for chaos and change.
+Bond: Tane has a strange obsession with
+an empty open metal can, which Chief
+Filip has stolen.
+Flaw: Tane suffers from Heliophobia,
+which is the fear of the sun. He is
+therefore never seen outside during the
+day.
+Intrigue: Chief Filip stole Tane’s can,
+and for that he wants vengeance. It
+wouldn’t be too hard for Tane to steal the
+can back, but he wants Filip to suffer,
+and how better to suffer than have his
+corruption exposed to the whole camp.
+Still, Tane is very unreliable, so he
+might turn on the players
+and simply steal the can
+back, desiring Chief Filip
+to succeed in order to
+bring change and chaos to the camp. Who knows?
+The Quest
+Tane is able to answer most of the party’s questions
+and fill any holes in explanations. Don’t hold back and
+don’t be shy. This is the point in the adventure where
+the players get all the information and need to make a
+decision.
+ There are certain pieces of information Tane might
+give the players without them asking for it. Here are
+certain suggestions that you can give through
+roleplay or through the use of Intelligence
+(Investigation), Wisdom (Insight), and Charisma
+(Persuasion) checks.  There never were any theft at the barracks, it’s all a
+lie.  Imis Elvan stole documents from Chief Shandra’s
+office, letters between her and her husband Chief
+Filip.  Imis Elvan stole documents written by Chief Filip
+with detailed explanations on the corruption in the
+camp and his personal attempts at overthrowing
+High Chief Highmore.  There’s absolutely no reason for Tane to help the
+party, so he might betray them all of a sudden,
+which he explains openly and with a bit of a manic
+giggle
+Whatever the party decides, they are in for a surprise.
+When they reach their next destination, or half way
+through the camp if they plan to leave it, they
+experience the next scene.
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+10
+Scene 2: Noble Assassination
+When the party reaches their next destination after
+meeting with Tane, or half way through camp in case
+they try to leave camp, they experience the following
+scene. You may also put in this scene when the party
+meets with Chief Shandra the second time if you want
+a better reason for arresting the players later on.
+Using this course may lead the party to act 2, and thus
+is a good way to railroad the adventure if you want to
+add all the available scenes, but it’s not suggested.
+You notice Chief Shandra in a red and white dress. She is
+speaking with someone. Her eyes catch your presence and
+she turns her head to look at your band of adventurers.
+Terror and shock fills her soul as two bolts suddenly pierce
+her chest. She slowly looks down clutching at two bleeding
+wounds, and then she slumps to the ground dead. Panic
+erupts.
+A Wisdom (Perception) check DC 13 reveals one
+thug and a DC 15 reveals both of the 2 thugs that just
+assassinated Chief Shandra. They attempt to flee
+across rooftops, trees, and cliffs. They resemble some
+of Tane’s men, but the truth is that Filip discovered
+that Johan is in love with Shandra and in a fit of rage
+he believed that Shandra was in league with the
+adventurers and Imis Elvan to get rid of Filip so that
+she could be with Johan. To avoid any complications,
+he hired tow assassins to kill her and later kill Johan,
+which isn’t part of this adventure so feel free to do
+whatever you want with Johan. To avoid the blame,
+he has disguised them as some of Tane’s men, which
+could easily be mistaken to be in league with the
+party. The party may even be blamed to have shot
+Shandra themselves. The point is that after giving the
+party a chance to react and roleplay the scene, they
+should be running from the law, or they’ll end up in
+prison. See more in the next scene.
+Scene 3: Flight
+Whenever the party flees use this scene. This can
+occur when they escape from the guards or prison in
+act 2 or after Shandra has been assassinated in the
+previous scene. This chase scene takes place in the
+streets of the camp.
+A dozen guards come rushing towards you yelling “Halt!
+You’re under arrest! Stop them!” Clearly now would be a
+good time to run unless you want to end up in jail.
+14 Highmore guards chase the party. The guards
+start 90 feet behind the players. Use the rules on page
+252 of the Dungeon Master’s Guide or refer to the
+same type of chase you ran in Act 2 Scene 4: The
+Rescue.
+Scene 4: Stealth Escape
+The party may completely avoid fleeing through the
+camp by using stealth. They may escape the guards
+during the flight and have to rely on stealth to make it
+the rest of the way. They may also skip this scene
+completely.
+The amount of guards searching for you in the camp is
+dazzling. You didn’t even know there were that many
+guards to begin with. You will have to rely on stealth to
+make your way out of the camp and track down Imis Elvan,
+the only person who can get you out of this mess, one way
+or another.
+The party may decide that capturing Imis Elvan and
+turning her in to Johan or Filip will prove their
+allegiance, which is correct. They may decide to kill
+Imis Elvan, in which case they need proof of her death
+before Filip will start trusting them. The party may
+decide to track down Imis Elvan and use her proof
+against Filip so that the party is no longer in danger
+from the chief. In case the party can’t make up their
+mind, or can’t figure out that they need to track down
+and find the elf Imis Elvan, Tane Here and his thieves
+can be used to help the players on to the right path,
+and help them sneak through the camp and out into
+the wilderness.
+ The party can use magic, roleplay, and skills to
+sneak through the camp. A Dexterity (Stealth) group
+check DC 12 is necessary to move through the camp
+undetected. A Strength (Athletics) group check DC
+20 is necessary to climb the palisades to avoid
+passing through the guarded gate. A Charisma
+(Deception) group check DC 10 with disadvantage is
+necessary to disguise themselves and get past the
+guards at the gate. A last possibility may be to create
+some sort of distraction near the gate so that they can
+sneak out while the guards are occupied. You should
+reward the players’ creativity and let them succeed in
+escaping the camp. 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+11
+Act 4: Action
+The fourth act of the adventure occurs when the
+players leave the camp, most likely to track down the
+elf Imis Elvan. This act covers most of the standard
+dungeons and dragons action, including skill
+challenges, exploration, social interactions, random
+encounters, and combat encounters. The party will
+travel through the Jungles of Chult, into the Feywild
+and track Imis to a minotaur infested fey labyrinth.
+This act contains two random encounter tables.
+ Note that act 2 and 3 can be skipped, and that the
+players may go directly to this act from act 1. This is
+intentional to make the adventure shorter in case the
+players are uninterested in politics and intrigue, or to
+simply throw them into more combat oriented
+encounters.
+Scene 1: The Gate
+When the party leaves Camp Highmore, they will
+most likely try to track the elf Imis Elvan. The most
+logical place to start is right outside the gate, but if the
+party skips it, then skip ahead in the scene.
+A well-travelled path leads away from the wooden gate
+flanked by wooden beams that make up the camp’s
+palisades. Nearly a hundred feet of jungle has been cleared
+from the camp’s boundary. The path winds into the rocky
+jungle covered in vines and large green trees of various
+sorts. Danger looms beyond but your search for the elf
+begins here.
+The path right outside the camp beyond the gate has
+heavy traffic and it’s impossible to find tracks here.
+The party will therefore need to find other clues
+before they can pick up Imis Elvan’s trail. With a
+successful Wisdom (Perception) or Intelligence
+(Investigation) group check DC 20, they can find an
+elven brooch. Since there’s a very limited amount of
+elves in the camp it should be obvious that it once
+belonged to Imis Elvan. Furthermore, their search
+should also reveal pieces of ripped clothing near the
+edge of the jungle from when the guards shot
+crossbow bolts at Imis. Combining the bolt, clothes,
+and brooch, you can tell the players that they can
+reconstruct her escape and that they may find her
+tracks within the jungle.
+ Once the party has discovered Imis’ trail they can
+search for her tracks. A player proficient in Survival
+may roll a Wisdom (Survival) check DC 20 to find
+her tracks and continue to the next scene.
+ If the party fails, you have two choices depending
+on whether they skipped act 2 and 3 or not.
+ If they skipped the previous two acts, then you can
+tell the players that they could try to gather
+information in the camp that may lead them to Imis’
+trail. Filip could hint at where Imis was last seen or
+Tane may have a tracker that goes with the party.
+ If the players have played through act 2 and 3, or
+you want to advance the story, then give the
+impression that the players found Imis’ tracks, but
+in reality they were the tracks of other elves. Hours
+later the party should come upon a camp with 2
+wood elf scouts, a man called Habrision and a
+woman called Torcassa. These two elves are very
+kind and helpful, and are willing to help the party
+track Imis Elvan without asking any questions. This
+should help the party continue to the next scene.
+Scene 2: Jungle Animals
+The Jungles of Chult are a dangerous place. The party
+will travel for hours, maybe days through the jungle
+surrounding Camp Highmore.
+Your travels take you off the beaten path and into a wet
+wilderness of large mossy trees with vines and roots. Your
+journey follows creeks, rock ledges, cliffs and waterfalls.
+The Jungles of Chult are a dangerous place, and it’s only a
+matter of time before you encounter some of its inhabitants.
+The following random encounter table has been
+created specifically for this adventure. You can
+change it to incorporate the more common creatures
+of the Jungles of Chult, or reuse it for other
+adventures that take place in jungle regions that
+borders the Feywild. Suggestions and descriptions of
+the various encounters are described after the table,
+but feel free to modify the encounters as you see fit.
+ Whenever the table tells you to divide a roll, then
+always round up.
+ Note that this table has been created to suit 4
+characters of 5th level. You may need to modify it a
+little in case you have more or less players.
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+12
+Jungle Random Encounter Table
+Roll 2d6 # Monster
+2 1 Treant
+3 2 Faerie Dragon
+4 1d6+2 Harpies
+5 1d4 Gnolls + 1 Gnoll Lord + (1d4)/2 Hyenas
+6 1d8+7 Wolves
+7 5 Apes
+8 2 Black Bears
+9 1d6+2 Hippogriffs
+10 1d4 Ogres (Always at least 2)
+11 1 Chimera
+12 1 Guardian Naga
+Treant
+This is a non-combat encounter. A treant is a deadly
+creature to encounter but also a benevolent one. The
+treant is a protector of the jungle and thus it may stop
+the players from chopping wood or starting a fire, or
+protect them from some evil creature. The treant
+should interfere before any harm is done and inform
+the party that they shouldn’t hurt the jungle. If the
+players persist, then they may end up in a deadly fight
+against this guardian that would otherwise make sure
+the players’ journey remains safe. The treant may
+even have met Imis and could help the party track
+her.
+Faerie Dragons
+This is a non-combat encounter. This dragon couple
+has come from the Feywild and discovered an
+interesting world. They are both the same age and of
+different gender. They are over 25 years old and
+when encountering the players, they are more
+interested in playing tricks than fighting. Donating
+treasures in the form of sweets, baked goods, and
+baubles, the dragons may reveal themselves and even
+help the party travel safely through the Jungles of
+Chult. They may even have spoken with Imis and can
+help the party track her.
+Harpies
+The Southwater tribe of harpies may discover that the
+party travel through their territory and attempt to
+lure them off cliffs or into pits of quicksand. These
+harpies are cowards and will flee if the fight turns
+against them. They are led by Matriarch Wrathwing.
+Gnolls
+This band of gnolls is not native to the Jungles of
+Chult. They have travelled deep into the jungle in
+search of some treasure and gotten lost. They have
+now been lost for so long that even they are amazed
+that they have survived. They will fight for food, but
+the gnoll lord Llyr is no fool and will gladly retreat if
+the fight goes against her.
+Wolves
+The Jungles of Chult is a dangerous place with wild
+animals. This pack of wolves will stalk the players.
+When the party is weakest they may attack, but if the
+fight goes against them, the wolves will retreat. They
+may try to attack again later, or they may simply leave
+the party alone.
+Apes
+The Jungles of Chult is a dangerous place with wild
+animals. This shrewdness of apes will attack the
+players and continue fighting even if the fight goes
+against them. They won’t fight till death, and when
+they are low on hit points, they may individually flee
+from the fight.
+Black Bears
+The Jungles of Chult is a dangerous place with wild
+animals. This pair of bears will see the players as food
+and will therefore attack. They will fight till they are
+almost dead and then try to flee.
+Hippogriffs
+Hippogriffs roost on some of the higher rocks and in
+the waterfalls of the Jungles of Chult. Some of them go
+hunting, which are the ones the party may encounter.
+IF the players are skillful, they could capture some of
+the hippogriffs or find their breeding ground for later
+use, but taming a hippogriff will take longer than just
+this adventure.
+Ogres
+These ogres live in the caves of the rockier parts of
+the jungle and come upon the players as they are out
+looking for food. They are not too bright and will
+therefore threaten the players to give them all of their
+belongings. Whether the players do as they are asked
+or not, the ogres will attack and try to eat the players. 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+13
+Chimera
+In the rockier parts of the jungle, where hippogriffs
+roost and ogres hide their lairs, the party may come
+across a chimera. This dragon feeds off of nearby
+hippogriffs, but the players’ presence may entice it to
+attack for a variety of reasons. The chimera will fight
+till death. If you want, you can let the players find the
+chimera’s lair after the fight, awarding additional
+treasure.
+Guardian Naga
+This is a non-combat encounter. Through the party’s
+journey through the Jungles of Chult, they will come
+upon mysterious ancient ruins of elven nature, which
+is strange due to the low number of elves in the
+region. If you want, you can change it to other ruins.
+ The party won’t be allowed to explore or loot the
+ruins as they will encounter a guardian naga that will
+ward them off. The naga hasn’t seen Imis Elvan, but
+can tell the players a little about the ruins they will
+encounter in scene 4. Use this opportunity or this
+encounter to assist the players in case they can’t
+figure out how to continue the story beyond scene 4.
+Scene 3: Elven Tracks
+Whether the party finds Imis’ tracks at the gate of the
+camp, or get help to find them, they will have to keep
+tracking her through the jungle. If they ever lose her
+tracks, use this scene to put them back on track, or
+you can use this scene simply to spice up the journey.
+You reach a creek blocking your path as it moves quickly
+through the rocky underbrush of the jungle. You notice that
+someone has set up camp on the opposite side of the creek
+and looking around reveals that whoever set up the camp
+must also have tipped a large log and used it as a bridge
+over the creek.
+An Intelligence (Investigation) group check DC 15
+reveals that Imis was most likely the one who set up
+the camp and tipped the log. Hints such as elven
+tracks, bandages, etc should indicate that it was Imis,
+or at least some lone wounded elf.
+ A Wisdom (Survival) check DC 15 gives the
+players the opportunity to find Imis’ tracks and
+continue their journey. If the party fails and haven’t
+met Habrision and Torcassa, then these two may
+come upon the camp and assist the players.
+Scene 4: Gatekeepers
+After at least one day of travel, possibly more, the
+party reach the end of Imis’ tracks in the jungle. They
+lead to ancient mysterious elven ruins.
+Beyond the large green vine trees, you come upon the
+remains of some sort of elven stone structure. The soft soil
+is covered in slippery rocks that are made wet by trickling
+water that runs down a set of stairs moving up against the
+side of a smooth cliff. Several of the steps are broken by
+protruding roots and remains of mysterious small stone
+structures resembling altars surround a large overgrown
+arch. The stairs lead up to a plateau behind the arch where
+another set of stairs lead back down into the arch. The path
+simply stops here. You doubt you will be able to reach the
+arch without following the stairs.
+5 dryads guard this portal to the Feywild. They will
+use entangle to ensure that none pass through the
+arch. When they engage in combat they first cast
+barkskin and shillelagh before using tree stride to gain
+a positional advantage in combat. They will do
+anything to ensure that no non-elf goes through the
+portal.
+ Once the dryads have been dealt with, the party may
+want to try to use the portal to reach the Feywild
+since Imis clearly fled there. Doing so requires going
+through the arch from the correct side and doing so at
+either sunrise or sunset. If they fail to use the portal
+and investigate it, an Intelligence (Arcana),
+Intelligence (History), or Intelligence
+(Investigation) check DC 15 is required to discover
+hints such as the elven text on the arch saying “At the
+sun’s set position in the sky, the path between worlds
+will be open.” This hint refers to the fact that the
+Feywild is in a perpetual twilight state.
+ If the party still fails and get stuck in this scene, you
+can always lead them into other nearby elven ruins
+guarded by a Guardian Naga that can assist the party
+after the dryads have been defeated.
+Scene 5: Feywild
+The Feywild is in a state of perpetual twilight. The
+players will enter the Feywild during twilight and
+thus they may not notice that they have entered the
+Feywild to begin with,
+ The ruins seem unchanged but a Wisdom
+(Perception) or an Intelligence (Investigation)
+check DC 15 reveals certain small differences. Once in
+the Feywild, the ruins seem to have been constructed 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+14
+specifically in this manner. They don’t seem to be
+ruins anymore, but built to resemble ruins. This was
+done to trick travelers.
+ Once through the portal, any non-fey should roll a
+Wisdom saving throw DC 10. Anyone who fails have
+a very limited memory of their time in the Feywild,
+which is up to you to roleplay. You can do this by
+describing things differently, skip scenes, downtime,
+rests, or travels.
+ You should also roll a d20 and consult page 50 of
+the Dungeon Master’s Guide to keep track of how
+much time passes.
+ The party can pick up Imis’ tracks again with a
+successful Wisdom (Survival) check DC 15. If they
+fail, then use the Feywild to your advantage and
+simply tell the players that they don’t remember how
+they reached the next scene. You may even skip a few
+scenes and go directly to act 5 if you want, though this
+should only be done if they haven’t already skipped
+act 2 and 3.
+Scene 6: Land of the Fey
+The Feywild is also a dangerous place. The party may
+travel for hours, maybe days through the land of the
+fey.
+The eternal twilight of this place combined with the heavy
+burden on your memories is unsettling and eerie.
+Sometimes you feel like you have skipped days. Plants and
+bugs shed light especially when touched and though
+everything seems serene and peaceful you feel like eyes are
+always watching you in the darkness beyond the large fey
+trees that grow larger for every mile you walk. The path
+becomes the inside of hollow logs and you feel like you are
+always near some forbidden lit fey castle. It is only a matter
+of time before you encounter someone or something else in
+this strange land.
+The following random encounter table has been
+created specifically for this adventure. You can
+change it to incorporate the more common creatures
+of the Feywild, or reuse it for other adventure.
+Suggestions and descriptions of the various
+encounters are described after the table, but feel free
+to modify the encounters as you see fit.
+ Whenever the table tells you to divide a roll, then
+always round up.
+ Note that this table has been created to suit 4
+characters of 5th level. You may need to modify it a
+little in case you have more or less players.
+Jungle Random Encounter Table
+Roll 2d6 # Monster
+2 1 Night Hag
+3 1d4 Ogres (Always at least 2)
+4 1d4 Centaurs (Always at least 2)
+5 1d8+7 Pixies
+6 1d4+3 Dryads
+7 2 Faerie Dragons
+8 2d4+3 Satyrs
+9 1d8+7 Sprites
+10 1 Unicorn
+11 (1d6)/2+5 Goblins + 1 Goblin Boss
+12 1 Treant
+Night Hag
+This sole hag has only recently been corrupted by her
+foulness and thus still hides in the Feywild. If
+discovered, she will surely be exiled to Hades. When
+she discovers the party, she sees an opportunity to
+advance her own goal by using the party to spread
+her corruption. She will do this with a mixture of
+Nightmare Haunting and shapeshifting. This
+encounter may drag out for a long time. It may even
+be the beginning of the next adventure.
+Ogres
+These ogres wander the Feywild in a nomadic group.
+When encountering the players, they will bully them
+and fight until death, even if the players surrender.
+Centaurs
+This is most likely a non-combat encounter. The party
+may encounter a small hunting band of centaurs
+while travelling through the Feywild. Maybe they only
+hear them, or see them as they come galloping by, or
+you can introduce the centaurs to the players. If you
+want a fight, you can always provoke the players, or
+have the centaurs be defending something in the area
+the party is travelling through.
+Pixies
+This is most likely a non-combat encounter. Pixies
+abhor weapons, and this group of pixies are more a
+curious nuisance than anything else. They are small
+and invisible, and will steal and investigate the
+players as they travel through the Feywild. If annoyed 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+15
+or threatened, the pixies will most likely flee, but they
+may also use spells as confusion, entangle, fly,
+polymorph, or sleep to enthrall the players, which
+may end in death. The players may find themselves
+dancing until they die, or fly into the sky and then
+plummet to their death, or simply sleep for all
+eternity, or be permanently transformed into some
+weak inferior being. The lesson here is “don’t annoy
+the fey.”
+Dryads
+This is most likely a non-combat encounter. Unlike
+the dryads the party encountered at the gate, these
+are not immediately hostile. These dryads will most
+likely attempt to charm the party and send them
+completely off course, most likely sending them to
+some eladrin castle to be judged for their trespassing,
+but that is another adventure. If attacked, the dryads
+will defend the lands until death.
+Faerie Dragons
+This is most likely a non-combat encounter. This
+dragon couple are both over 25 years old and of
+different gender. They are more interested in playing
+tricks than fighting, but they will defend themselves
+and their home, but they won’t give their lives for it.
+Donating treasures in the form of sweets, baked
+goods, and baubles, the dragons may reveal
+themselves but they aren’t much help here in the
+Feywild as they are too distrusting of the party.
+Satyrs
+This is most likely a non-combat encounter. This
+group of satyrs are driven by curiosity and will love to
+join the party, hearing stories. The party will quickly
+bore them, but they may learn where to find revels
+for future quests. One of the satyrs carries satyr pipes.
+If someone tries to steal or threaten the satyrs, they
+will fight only to satiate their hedonistic nature by
+fighting a group of great heroes.
+Sprites
+These sprites are more aggressive than the pixies.
+They will use Heart Sight to judge the moral character
+of the player. Anyone who fails are put to sleep with
+their poisoned arrows. Anyone who succeeds will be
+frightened off. This may end up splitting the party, or
+forcing some players with pure of heart to actually
+attack the sprites in order for them to save their
+companions
+Unicorn
+This is most likely a non-combat encounter. Any open
+flames of a nonmagical nature are extinguished as the
+party enters the unicorn’s domain. Read more about
+the unicorn’s regional effects on page 293 of the
+Monster’s Manual. The unicorn will most likely not
+reveal itself unless it deems the entire party to be
+worth of its presence, or if the party are so aggressive
+that the unicorn will have to intervene and slay the
+evil party. If you want, the unicorn may even join the
+party, serving as a mount, for the duration of their
+stay in the Feywild, simply to ensure that the elf Imis
+Elvan is not persecuted by corrupted humans.
+Goblins
+These malicious raiders pillage the Feywild and have
+done so for as long as they have existed. When they
+encounter the party, they see more prey and will try
+to set up an ambush and attack them. They may be
+discovered though, even before they get to set up
+their ambush. It’s up to you how you want to run this
+little warband of goblins.
+Treant
+This is a non-combat encounter. A treant is a deadly
+creature to encounter but also a benevolent one. This
+treant is a protector of the Feywild and thus it may
+stop the players from chopping wood or starting a
+fire, or protect them from some evil creature. The
+treant should interfere before any harm is done and
+inform the party that they shouldn’t hurt the Feywild.
+If the players persist, then they may end up in a
+deadly fight against this guardian that would
+otherwise make sure the players’ journey remains
+safe.
+Scene 7: The Labyrinth
+After travelling for a long time through the Feywild,
+the party will eventually reach the labyrinth where
+Imis is hiding. Unfortunately, she’s hired some
+defense in case she was ever tracked or disturbed.
+Your journey through the Feywild brings you out of the
+forest where you suddenly stand before a wall of fog. The
+fog is clearly magical and as you stand and look at it, it
+disperses to reveal a hedge maze. The fog blocks your sight
+to the sides so you have no idea how large this maze is, but
+the entrance is right before you. This must be Imis’ domain. 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+16
+The journey through the maze is both easy and hard.
+There are no maps because maps are not necessary in
+this scene. The maze is set in the Feywild, which plays
+tricks on the players’ memories, so they won’t be able
+to map the maze or move through it in any logical
+manner. Furthermore, 2 minotaurs inhabit the maze
+and their magic ensures that once the party enters,
+they will not leave again or reach Imis Elvan.
+ Give the illusion that the players have a chance at
+finding their way through the maze, either by using
+logic and roleplay, skills, magic, or any other creative
+solution they can think of.
+ When the players start to get the hint that this maze
+is magical in nature, or when they have wandered
+through it long enough, then introduce one of the
+minotaurs standing in front of them. They should find
+their rear blocked as well by the other minotaur,
+forcing a fight.
+ Once the minotaurs have been defeated, the party
+will find their way to the center of the maze where
+they will encounter Imis Elvan as described in the
+next and last act.
+Not for resale. Permission granted to print or photocopy this document for personal use only. Elfhunt by Jussi R. Foltmar Svendsen
+17
+Act 5: Resolution
+The fifth act concludes the adventure and includes
+two boss fights, one for each possible ending. The act
+begins when the party finally finds Imis Elvan. At this
+point they can either side with Chief Filip and capture
+or kill Imis Elvan, or they can side with the elf and
+join forces. In both cases they will travel back through
+the Feywild and the Jungles of Chult before reaching
+Camp Highmore. Here they will either turn in Imis
+Elvan or her body, or they will face Chief Filip in a
+final confrontation. Finally, they will be rewarded
+personally by High Chief Highmore, no matter what
+their choice, so they get a level and treasure no
+matter how the adventure ends.
+Scene 1: Meeting the Elf
+In the center of the labyrinth the party encounters
+Imis Elvan, the elf who allegedly stole secret
+military information from Camp Highmore and
+then fled into the Jungles of Chult.
+The center of the labyrinth is amazing and peaceful. It is a
+large circular grove surrounded by immense redwood pine
+trees with strange yellow lights embedded in them.
+luminescent fireflies light up the grove that seems like a
+serene elven living room. In the center of the mysterious
+blue lights that course through the ground lies an elven
+maiden on a pile of soft warm moss that seem to have
+served as her bed during her stay here. As you enter the
+grove she quickly stands up “Who are you?” Imis Elvan
+Imis Elvan’s stats are described in appendix A:
+Monsters. She’s a wood elf who has spent too much
+time with humans, even giving birth to a half-elf many
+decades ago. Her skills in magic are focused on the
+school of illusion, which is combined with her skills in
+deception. Her son’s father was a nomadic hunter, but
+both often travelled to Camp Highmore. Imis is a wild
+wood elf with silver eyes and long smooth black hair.
+She has a dark green face tattoo. She’s very curious,
+which is the reason she spent so much time with
+humans, and why she discovered Chief Filip’s plot to
+overthrow High Chief Highmore. She players a variety
+of wind instruments and doesn’t usually say that
+much. Conversations with Imis usually ends in lies
+and with her gathering more information
+than she imparts.
+Ideal: Knowledge – Imis wants to know
+as much as possible.
+Bond: Imis has grown attached to
+Camp Highmore for some unknown
+reason.
+Flaw: Imis has made a powerful enemy
+of Chief Filip and the rest of the Tribe of
+the Moonweavers.
+Intrigue: Imis discovered that Chief Filip
+was conspiring against High Chief
+Highmore. After stealing documents
+proving Chief Filip’s corruption
+she fled from Camp
+Highmore.
+There are three possible outcomes to the party’s
+meeting with Imis.  The party has come with the intention of arresting
+Imis and bringing her back to Chief Filip. You
+should roleplay her as if she’s guilty and simply
+defending herself. She will not come willingly and
+thus this will most likely end in a fight. Give the
+players the chance to knock her unconscious when
+they reduce her to 0 hit points so that they can
+bring her back to Camp Highmore alive.  The party has come with the intention of arresting
+Imis and bringing her back to Chief Filip. They talk
+a lot with her, trying to reason with her. Eventually
+you should make it clear that she’s innocent and
+then Imis will explain everything to the players. The
+party will then have to choose whether to actually
+arrest her, or return to Camp Highmore to face
+Chief Filip.  The party is seeking out Imis in the hopes of
+gathering proof against Chief Filip so that the
+accusations against them will be dropped. In this
+case Imis proves very helpful and is more than
+willing to follow the party back to Camp Highmore,
+which will end in a confrontation with Chief Filip. 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+18
+Boss Fight
+If the party ends up fighting Imis, she uses a specific
+combination of spells and skills as described below.
+Round 1: When fighting erupts, Imis shouts out
+“You must be brave heroes if you dare challenge the
+Mistress of Illusion! Show me what you’ve got” She then
+spends her round attacking the closest player with
+her sword (+6 atk, 1d6+3 dmg). She does this mainly
+to assess the party and see what they are capable of
+doing.
+Round 2: Once she’s in melee with the closest
+player, she will cast cone of cold on that player, hoping
+to strike anyone else behind the player (8d8 cold
+dmg, Constitution saving throw DC 15 for half
+damge). As she casts her spell, she cries out as energy
+erupts from her. Describe the spell as being waves of
+pure magical energy instead of icicles.
+Round 3: After her first spell, she will try to
+position herself so that she stands in melee with the
+largest amount of players without provoking any
+attack of opportunity while doing so. Then she will
+cast thunderwave using a 4th level spell slot (5d8
+lightning dmg and knocks back any player 10 feet,
+Constitution saving throw DC 15 for half damage and
+avoid getting knocked back).
+Consecutive Rounds: At this point Imis will simply
+use her sword and attack the closest player (+6 atk,
+1d6+3 dmg). If she defeats a player, she shouts “Ashes
+to ashes!” or “Oh, careful not to bleed on this holy
+ground.”
+When she reaches 126 hp and again at 63 hp:
+When she reaches 126 hit points or less, she will cast
+misty step and reappear in four places scattered
+throughout the grove as she just cast mirror image.
+She will shout out “Come and try your luck!” On the
+next round she will cast magic missile and the
+subsequent rounds she will cast fire bolt until all of
+her illusions have been destroyed. If her true form is
+discovered, she will revert back to using her sword
+and have her illusions join her. Then she will spread
+out again and cast fire bolt, repeating this process
+until all of her illusions have been destroyed.
+ Once her illusions have been destroyed, she will get
+close to as many players as possible without
+provoking opportunity attacks and then cast
+thunderwave with a 4th level spell slot, just like she
+did in round 3.
+ She repeats this tactic when she reaches 63 hit
+points or less, except she will shout out “Are you
+feeling dizzy?” and she will cast thunderwave for two
+rounds using 3rd level spell slots instead. At this point
+she should be running out of spells and hit points.
+ Once defeated, Imis calls out “Ugh… It hurts…”
+before either dying or falling unconscious.
+Scene 2: Filip’s Fall
+Whatever the players choose in the previous scene,
+they will have to travel back to Camp Highmore. You
+can make this a quick journey back, or you can run
+various random encounters, check to see if they get
+lost, set them on a side quest, whatever you feel like.
+Once back in Camp Highmore, they will have to
+confront Chief Filip no matter their previous choices.
+If they haven’t met Chief Filip and simply go to Johan
+to turn in Imis, then let Johan send them to the House
+of Chiefs where they confront Chief Filip.
+The House of Chiefs is empty, except for Chief Filip who
+stands in the center. You hear guards at the entrance. Chief
+Filip is standing in his red half-plate and wields his twohanded axe.
+Here are three possible scenarios for this scene.
+ The party has captured Imis Elvan and brings her to
+the House of Chiefs where Chief Filip congratulates
+them. If they’ve been framed while they were gone,
+Filip simply says that he sorted everything out
+while they were away, and the fact that they
+brought Imis back is only additional proof of what
+he already convinced High Chief Highmore of. He
+then rewards the party and the adventure
+concludes as described in the next scene.
+ The party has killed Imis Elvan but brings back
+proof of their deed. If they don’t, then Filip will not
+believe them and the boss fight starts. Bringing
+proof of Imis’ death will have the same effect as
+bringing her back alive.
+ The party confronts Chief Filip with Imis. They will
+probably have been on their way to turn in their
+evidence to High Chief Highmore or someone, but
+end up at the House of Chiefs with Chief Filip’s
+guards blocking the entrance. Imis will have her
+hands full with the guards while the party will have
+to deal with Chief Filip. The boss fight thus begins.
+Boss Fight
+If the party ends up fighting Chief Filip, then he uses a
+specific combination of spells and skills as described
+below.
+Round 1: When fighting erupts, Chief Filip shouts
+out “A chance to test my might!” He then attacks the
+nearest player with multiattack. If possible, he’ll use
+multiattack on two separate targets.
+Round 2: Filip will use call for help and shout out
+“Guards!” thus summoning 2 Highmore guards. 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+19
+Round 3: Filip will use leap attack to quickly move
+into the center of the room without provoking
+opportunity attacks, and possibly attacking a player.
+Round 4: Filip will use whirlwind and move around
+the room attacking as many as the players as possible.
+Consecutive Rounds: Chief Filip will continue
+fighting and calling for help whenever there aren’t
+two guards assisting him. He will repeat his tactic
+from round 3 and 4 when both features have
+recharged.
+ When he defeats a player he simply just laughs in
+joy over his own might. When he is defeated, he will
+call out “Defeated… by someone like you… the
+shame…”.
+Scene 3: Conclusion
+Once the adventure concludes, they are awarded a
+level and a reward from either High Chief Highmore
+or Chief Filip. A celebration is held in the camp in
+honor of the players, and eventually they are invited
+to a private party at the House of Chiefs.
+The festivities in your honor lasts all evening and many
+continue dancing and playing music throughout the night.
+You are personally invited to the House of Chiefs for an
+after party where you are served expensive food and wine,
+good company, and are given your reward for your deeds.
+Reward
+The party should be rewarded with a potion or scroll
+each as you see fit. They should also be rewarded
+with coins and gems. You may also reward them with
+magical items instead of gems and coins. You may
+also find the treasure below too much, in which case
+you can simply halve it to balance it out more fairly.
+ 10 gems worth 100 gp each
+ Chest of 7,000 sp
+ Chest of 3,000 gp
+The party should also gain renown with Camp
+Highmore. If the camp are aware that the players are
+affiliated with a specific faction, then they will put in a
+good word for the players and thus they should get a
+renown with their faction as well.
+Epilogue
+This adventure was first conceived in 2015 and finished
+in 2016. It was playtested in 2016 by a group of players
+who took turns being the dungeonmaster. This group of
+“gamemasters” started out when my wife saw a notice
+about someone looking for a group for D&D in a nearby
+community. We had a newborn daughter at the time, so
+we posted that we would be interested in playing under
+certain conditions to ensure that our daughter always
+came first. We assembled a group and one of the
+conditions was that the games were always played at
+our place so that our daughter could remain in a safe
+environment. Another requirement was that she came
+first, so whenever she wasn’t asleep, was hungry,
+needed to be changed, etc, then one of us would focus
+on that instead of playing D&D. The final criteria was
+that we ended our sessions latest at 21:00 since she was
+then put to sleep and we wanted to avoid the loud
+noises from excited D&D players to wake her up. The
+project evolved into each player taking turns being the
+dungeonmaster and as I write this epilogue we still
+haven’t gone through each player yet.
+ This adventure is the adventure I wrote for when it
+was my turn to be the dungeonmaster, and it was
+greatly inspired by the adventure that my wife wrote. I
+wanted to create an event based adventure that took
+place in the same environment. The events were divided
+up into NPCs that caused other events, and bound
+together they created the basis for the story. I expanded
+on the skeletal adventure I had created and then
+divided it up into three parts, one for each main NPC,
+the elf, the soldier, and the rogue. I further expanded on
+this by applying the 5 act structure and then I wrote all
+the details. Initially, the adventure was written as small
+cards for each scene, but when the opportunity to
+publish it on DMsguild arose, I changed the format to
+what it has become today.
+ I hope you appreciated this adventure and I will
+definitely write and publish more in the future.
+ —Jussi R. Foltmar Svendsen
+ aka Gamemaster Jay 
+Not for resale. Permission granted to print or photocopy this document for personal use only.
+Elfhunt by Jussi R. Foltmar Svendsen
+20
+Appendix A: Monster
+Highmore Guard
+Medium humanoid (human), lawful neutral
+Armor Class 15 (hide, shield)
+Hit Points 22 (4d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 12 (+1) 12 (+1) 10 (+0) 11 (+0) 10 (+0)
+Skills Perception +2
+Senses passive Perception 12
+Languages Common, Chultan
+Challenge 1/4 (50 XP)
+Pack Tactics. The guard has advantage on an attack roll
+against a creature if at least one of the guard’s allies is
+within 5 feet of the creature and the ally isn’t
+incapacitated.
+Actions
+Spear. Melee or Ranged Weapon Attack: +3 to hit,
+reach 5 ft., or range 20/60 ft., one target. Hit: 4 (1d6 +
+1) piercing damage.
+Imis Elvan
+Medium humanoid (wood elf), chaotic good
+Armor Class 16 (mage armor, has 1x shield ready)
+Hit Points 192 (35d8 + 35)
+Speed 35 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 12 (+1) 16 (+3) 13 (+1) 18 (+4)
+Skills Arcana +6, Deception, +7, Insight +4, Perception
++4, Stealth +6
+Damage Resistance nonmagical bludgeoning, piercing,
+and slashing (stoneskin)
+Senses Darkvision 60ft., passive Perception 14
+Languages Elven, Common, Chultan, Draconic,
+Dwarven, Halfling
+Challenge 8 (3,900 XP)
+Spellcasting. Imis is a 9th-level spellcaster. Her
+spellcasting ability is Charisma (spell save DC 15, +7 to
+hit with spell attacks). Imis has the following sorcerer
+spells prepared:
+Cantrips (at-will): blade ward, fire bolt, minor illusion,
+prestidigitation, true strike
+1
+st level (4): mage armor, magic missile, shield,
+thunderwave
+2
+nd level (3): mirror image, misty step
+3
+rd level (3): hypnotic pattern, major image
+4
+th level (3): stoneskin
+5
+th level (1): cone of cold
+Actions
+Shortsword. Melee Weapon Attack: +6 to hit, reach 5
+ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+Chief Filip Moonweaver
+Medium humanoid (human), lawful evil
+Armor Class 16 (half plate)
+Hit Points 157 (35d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 12 (+1) 11 (+0) 12 (+1) 14 (+2) 11 (+0)
+Skills Athletics +6, Deception +3, Insight +5
+Senses passive Perception 12
+Languages Common, Chultan, Dwarven
+Challenge 5 (1,800 XP)
+Call for Help. As a bonus action, Filip can call for help,
+which summons 2 Highmore guards. There can be no
+more than 2 Highmore guards assisting Filip at any
+given time.
+Actions
+Multiattack. Filip makes two melee attacks.
+Leap Attack (Recharge 5-6). Filip uses his action to
+make an athletics check. The roll indicates the distance
+that Filip can jump (thus move) without provoking
+opportunity attack. When he lands, he makes a melee
+attack to a target within 5 feet. Filip must be on higher
+ground than his target to use this feature. Filip may use
+this feature without having a target.
+Whirlwind (Recharge 5-6). Filip uses his action to make
+a melee attack against any number of creatures within
+5 feet of him, with a separate attack roll for each
+target, as he moves around the room. Moving does not
+provoke opportunity attacks. Only one attack per
+target is allowed.
+Greataxe. Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target. Hit: 9 (1d12 + 3) slashing damage. 

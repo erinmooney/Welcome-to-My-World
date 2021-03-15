@@ -1,0 +1,2364 @@
+LOST OASIS
+A PLAYTEST TALE
+NOTE: This is a playtest adventure. Due to the goals of a playtest, some
+player choices are constrained. In future installments of Tales of Xadia,
+this won’t be the case. For groups wishing to simply playtest a few short
+scenes, there are playtest scenes marked for immediate use (marked
+with ) and additional context and plot summaries
+are included on their respective pages.
+TABLE OF CONTENTS
+A Cortex Playtest
+Welcome, Travelers! Grab your friends and dive into this
+Tale of Xadia!
+“I’ve Got Some Questions…”
+Why are we here, anyway?
+Why can’t Feathershawl do this themself ?
+Maybe I could do this without Feathershawl?
+You’re sure it’s abandoned, Feathershawl?
+Background for the Narrator
+Innean
+Catalysts
+Many Paths
+Feathershawl
+Nausics
+Cuirass of Vuxen and the Primal Well
+Scene Structure
+Threads
+Prologue – Arriving on Innean
+Act One – Rabble, Rabble
+Feathershawl
+Nausics
+Townspeople
+What Next?
+Action Scene – Extraction
+Action Scene – An Eager Invitation
+Action Scene – Mass Flight
+Townspeople of Note
+What’s the Plan?
+Bridge Scene – Overdue Notice
+The Collision
+Bridge Scene – More Than a Mouthful
+The Collision
+Act Two – After the Collision
+Action Scene – Moon Steals Earth and Sky
+Action Scene – Sky Defies Moon
+Action Scene – Roars of Freedom
+Action Scene – Feathers Fly
+Action Scene – Primal Deliverance
+Action Scene – From Cloud to Anvil
+Additional Scenes
+Succession
+Loyal Swarm
+Descent of the Coward
+Other Sad Outcomes
+The Aftermath
+What’s Next
+TABLE OF CONTENTS
+2
+SCENE GUIDE
+Prologue
+Arriving on Innean
+Page 12
+Aftermath
+Page 34
+Act Two
+Page 26
+Feathershawl Nausics Townspeople
+Act One
+Rabble, Rabble
+Page 13
+An Eager Invitation
+Page 18
+Sky Defies Moon
+Page 27
+More than a Mouthful
+Page 24
+Primal Deliverance
+Page 30
+From Cloud to Anvil
+Page 31
+Overdue Notice
+Page 23
+Feathers Fly
+Page 29
+Extraction
+Page 16
+Moon Steals Earth & Sky
+Page 27
+Mass Flight
+Page 19
+Roars of Freedom
+Page 29
+NOTE: This flowchart shows the most
+likely paths through the tale. Depending
+on how things go, you might add more
+scenes in, play them in a slightly different
+order, or have some PCs jump across to a
+different thread. Since all of the threads
+are running concurrently, make sure the
+PCs don’t accidentally travel back in time
+if they change threads!
+SCENE GUIDE
+3
+A CORTEX PLAYTEST
+A CORTEX PLAYTEST
+Welcome and thank you for playtesting our tale! Before
+diving into the Lost Oasis playtest, make sure you have a
+copy of the Tales of Xadia Rules Primer handy. It outlines
+many of the gameplay questions you and your friends may
+have and tells you everything you need to play a session of
+Tales of Xadia.
+The Narrator for your group is the intended audience
+for this document. “Welcome, Travelers!” (page 5) is
+an introduction to share with the players, possibly as a
+handout in advance.
+To ensure that the mechanics are tested adequately while
+you play, this playtest is generally less open world than the
+Tales of Xadia RPG. It can be played in two ways:
+Playtest Scenes: Several scenes, the first few after
+the Prologue, are designed to highlight player choice
+and gameplay. These are called out so that groups can
+immediately experiment with some of the mechanics
+without needing more than an hour of gameplay time.
+The Narrator, or one of the players, might take notes
+throughout and record how the scene went: which rules
+seemed to work well, which didn’t seem to work as well,
+and so on.
+A Complete Playthrough: When played from start to
+finish, Lost Oasis takes place over two acts that include
+many scenes, some of which your players might not end
+up engaging with. This likely takes a few hours to play
+and isn’t necessary unless you and your friends want to
+experience a full adventure with some closure. And who
+knows? Some of the characters might be so fun that you
+want to play them again in a future tale, with the Lost
+Oasis a part of their past.
+A Note on Difficulty: In most cases, we’ve provided the
+difficulty dice for tests and challenges, based on the rules
+in the Tales of Xadia Rules Primer. Most of the contests
+in this playtest are with one of the two catalysts and use
+their traits. As a reminder, Easy is ⑥⑥, Challenging
+is ⑧⑧, Hard is ⑩⑩, and Very Hard is ⑫⑫. If you feel
+like slightly increasing the difficulty on any test, you can
+always add an additional ⑥ or two.
+4
+WELCOME, TRAVELERS!
+Grab your friends and dive into this Tale of Xadia!
+After counting yourselves lucky not to have suffered an illfate at the battle outside of the Storm Spire, a mysterious
+tomb-delving Moonshadow elf named Feathershawl
+(they/them) has commissioned your rag-tag crew to
+investigate an abandoned city floating high across the
+Xadian sky. The island is on a collision course with a
+mountain range at the border, and the clock is ticking
+to salvage a rare artifact from it; you don’t have time
+to do your own research before you leave. Hopefully
+Feathershawl is trustworthy! The city is called Innean,a
+name that has escaped everyday conversation in Xadia for
+a long time.
+You’re hunting a powerful artifact called the Primal Well,
+which conducts Sky and Earth magics through itself. It’s
+a chest-sized chunk of marble, faceted like a diamond,
+reverberating with the residual magic it collects from the
+air around it. This is then redirected downward, pushing
+the city of Innean to a great height in the sky. It’s the
+kind of place that would perk up the ears (elven or no)
+of any adventurer.
+Feathershawl tells you that by the time you make it to the
+mountains at the border, there’s only a 12-hour window
+to ride to Innean on a magic beam of moonlight and get
+in and out before the city is destroyed forever. Should be
+an easy job, they tell you. There’s no bystanders that risk
+getting hurt in an abandoned city. And Innean contains
+everything from baubles to lost legends. Feathershawl
+is obsessed with bringing this artifact back to the
+Moonshadow elves, as they claim their people’s lives
+depend on it. Sounds important!
+Intense tour guide aside, it’s now off to the mountains
+with you! What lies ahead?
+Cute pigs!
+Friendly chickens!
+Magical artifacts that need rescuing?
+You and your Narrator can find out for yourselves by
+flying ahead, straight into the Lost Oasis!
+WELCOME, TRAVELERS!
+5
+“I’VE GOT SOME QUESTIONS...”
+“I’VE GOT SOME QUESTIONS…”
+Make sure your players have read “Welcome, Travelers!”
+(page 5). You may want to review it with them or read
+it aloud.
+Here are some questions your players might have as you
+introduce the premise of the tale, along with possible
+answers that you can read to your players or use to inspire
+your own answers.
+Why are we here, anyway?
+Your group of companions has been approached by
+a mysterious benefactor, a Moonshadow elf named
+Feathershawl who claims to have discovered a floating city
+lost to time. They tell you that centuries of natural wind
+currents high in the atmosphere have steered this city,
+called Innean, towards some mountains near the Border.
+Now it’s perilously close to colliding with said mountains,
+and you’re speeding toward this mountain range to get
+there before the collision and the city’s destruction.
+Why can’t Feathershawl do this themself ?
+Feathershawl is only one elf, and they worry things will
+get complicated. They say:
+This artifact is simply too difficult for me to
+extract alone. I’ve studied it, sure, but there’s
+little to study. All I know is that I might need
+the likes of you because even my rather capable
+powers have their limits. If I’m honest, I’ve lost
+both assets and confidence since being Ghosted by
+Moonshadow society. However, I’m convinced I
+can use this artifact to save lives and make up for
+the shortcomings that brought me to that rather
+traumatic ritual. Now, let’s hurry!
+Weird how they’re hurrying. And why were they
+Ghosted, anyway? Seems kind of suspicious. If not
+for this whole “collision with a mountain” ticking
+clock thing, you might get pushier.
+What do I get out of this?
+Feathershawl offers each of you a significant sum of
+money to cover the journey and its risks, but promises the
+abandoned city contains more than enough intrigue and
+plunder to satisfy a spectrum of interests. They say:
+I have my eye on one artifact in particular, that
+Primal Well. Oh, if only I could bring it back to the
+Moonshadow elders for the benefit of my people. You
+see, my great flaw was I underestimated a plague
+of worms that destroyed my people’s crops, and this
+artifact could easily float the crops above the now
+desperately infested soil. I truly hope this excursion will
+not only help me but also my people.
+Tell me, what is it exactly that you crave? Armor?
+Weapons? Ancient tomes? Glowing jewels? Money?
+Good will? A story for your grandchildren? I am sure
+all of that and more lies inside Innean, though the
+coins will be from another age. As long as we can get
+my Primal Well, fill your pockets!
+They make “filling pockets” sound WAY too easy, but they
+sure do make jewels sound fun when they say “glowing.”
+6
+“I’VE GOT SOME QUESTIONS...”
+Maybe I could do this
+without Feathershawl?
+They tell you that the journey requires their special Moon
+magic cloak, which only they know how to use. They say:
+I use my cloak to harness a major moonbeam only
+present during this rare moon phase. The beam will
+cross the mountainside, as well as the city of Innean
+itself, for a mere 12-hour window! We shall glide up
+the moonbeam as if it is a river of light and we float
+upon a raft. No flying creature can fly so high and
+brave the mighty winds. It’s me or nothing, I’m afraid.
+Sorry I can’t reassure you more; time is of the essence,
+and I need to bring sustenance to my people.
+So, we need Feathershawl to get in and out. But it all feels
+a little risky.
+You’re sure it’s abandoned, Feathershawl?
+Yes! Of course. There’s no record of it being in contact with
+Xadia in centuries. It must be abandoned. Hurry, now!
+So the PCs don’t have a choice about
+starting the adventure with Feathershawl?
+If this were an actual session of the Tales of
+Xadia RPG, the players would have as many options
+open to them as they could imagine. However, for a
+playtest, it’s important to get straight to testing out
+the mechanics, and the easiest way to do that is to
+have some decisions already made.
+So yes, this adventure is dependent on the PCs
+going to Innean with Feathershawl. But they need
+not stay with their guide, or even stay together.
+In fact, some obstacles might prove easier if
+the PCs choose to split up and follow scenes in
+separate locations.
+7
+BACKGROUND FOR THE NARRATOR
+BACKGROUND FOR THE NARRATOR
+Feathershawl needs the player characters (PCs) to help
+them recover an artifact from the lost city of Innean.
+Nausics has his own agenda, and the townspeople just
+want to survive the collision. These Narrator characters
+(NCs) are important to the plot, and in Act One they all
+try to endear themselves to the PCs.
+Innean
+Innean is a small floating, isolated, Brigadoon-like city
+where a small population of Skywing elves has lived in
+harmony for centuries, separated from the rest of Xadian
+Skywing culture and unaware of Xadia’s politics and
+conflicts with humans. Life has become more pastoral
+than adventurous, as stratospheric winds quickly made
+visiting Innean all but impossible and round trips to the
+ground below are extremely unappealing. The city feels
+the strain of its isolation, however, as people have begun
+to disappear (later, players discover people have gone
+missing as a result of Nausics’ experiments). Innean has
+drifted west over the years and is now about to collide
+with a mountainside along the Border. Feathershawl has
+seen many hints that the city is still occupied through
+their research, but they have conveniently left that out.
+PCs are told the city is abandoned—until they arrive and
+see differently.
+Catalysts
+Catalysts are Narrator characters whose values and
+importance in the story change as the PCs interact
+with them, even indirectly. Instead of attributes they
+have a single catalyst die, which can step up or down
+during a game. Otherwise they have distinctions, values,
+specialties, and even assets just like PCs. Their values are
+key to the way they change and grow in the tale.
+The way players interact with catalysts alters the shape of
+the story, and any NC they encounter has the potential to
+be a valued ally or a vexing enemy as scenes and conflicts
+continue. The catalysts of Lost Oasis are a Moonshadow
+elf named Feathershawl (they/them) and a wingless
+Skywing elf named Nausics (he/him). Early in Act One,
+the two argue and become very distrustful of each other.
+But it’s important to remember that they both value the
+PCs and both do their best to endear themselves, at least
+in Act One.
+In this playtest tale, the two catalysts start out as ⑧
+catalysts and can step up this die every time they succeed
+in a contest that includes one of their primary values. As
+their catalyst die steps up, so too does the value, and this
+in turn steps down another value. As Narrator it’s your
+responsibility to track these changing die ratings.
+Many Paths
+If your playtest session is short, don’t worry about
+the many paths. Just visit one of the scenes marked
+ and explore that path.
+If you’re doing a full playthrough of the adventure, each
+player in your group should decide whether to side with
+one of the catalysts, focus on the evacuation of Innean, or
+forge an altogether new path through this tale. There’s no
+requirement for the group to stay together; players can
+each choose a different thread to follow if they want.
+Your players may divert the action entirely from the
+proposed scenes, if you let them! You can use the NCs
+and artifacts provided here to aid you in forging your own
+adventure. If one of the minor characters seems to evolve
+into a catalyst, you can upgrade them on the fly to suit the
+story. (See “Succession” on page 32 for an example.)
+Some text is written as though the Narrator is reading it
+to the players, and you can do that if you like. But nothing
+must be read verbatim. Borrow quotes and phrases all
+you want, and paraphrase to suit your group’s tone and
+playstyle. In the end, the way you play the NCs is up to
+you; we provide some basics, but you bring them to life at
+your table.
+It’s important to remind your players that they don’t need
+to stay together. This tale is designed so that things aren’t
+inherently easier or “better” if the PCs pursue the same
+path. The adage of Don’t split the party doesn’t apply here.
+Replaying this adventure will get you different
+interactions and outcomes, so don’t be shy. Suggest
+another session with your players if they want to explore
+some of what they missed. 
+8
+BACKGROUND FOR THE NARRATOR
+Feathershawl is a tall, lanky, gender neutral Moonshadow
+elf with quiet but grim eyes. Once an elder of the
+Moonshadow elves, they were exiled for failing to honor
+an oath that cost elves their lives, and though they never
+meant to hurt anyone they’re ashamed to discuss how
+horribly they’ve failed. Their focus is entirely on how to
+rejoin their society after having been made into a Ghost—
+something most exiled elves are unable to return from—
+and they’ll stop at nothing to bring back the Primal Well
+as proof of their commitment to Moonshadow elf culture.
+They also have a literal magic cloak of owl feathers that
+allows them to float along beams of moonlight during
+special phases of the moon. They apologize to PCs for
+their shrewd and myopic nature, but they’re also very
+distracted by how little time there is and their dream
+of returning to their people; they’re willing to sacrifice
+manners to achieve their goal. This Primal Well simply
+must work, they tell themselves, though there are no clear
+routes to being welcomed back after being Ghosted.
+They offer the PCs a significant sum of money—or any
+other motivations that seem appropriate to enlist the
+help of the PCs—but neglect to mention the Skywing
+elves still occupying Innean after all these centuries. Once
+on Innean, they spend little to no time fraternizing with
+anyone unless they can provide information on the
+Primal Well.
+Feathershawl’s primary value is Liberty. They want not
+only the Primal Well, but the opportunity it may provide
+for Feathershawl to escape their Ghost status and rejoin
+Moonshadow society. If they win a contest that involves
+Liberty, their Liberty die as well as their catalyst die
+steps up for each win, up to a ⑫. But for each of those
+wins, another one of their value dice is stepped down at
+the Narrator’s discretion. Particularly vulnerable to be
+stepped down are Feathershawl’s sense of Mastery and
+Truth, as each matters less the closer Feathershawl gets
+to pulling off what is essentially a heist.
+Moonshadow Elf ⑧
+Exiled Moon Mage ⑧
+Singlemindedly Acute ⑧
+DISTIONCTIONS VALUES
+Liberty ⑧
+My survival and legacy are
+deeply pressing concerns.
+Mastery ⑧
+Developing power can solve
+most of my problems.
+Truth ⑧
+The relativity of truth is keeping
+me alive.
+Devotion ④
+Love means little if it makes
+you powerless.
+Glory ⑧
+Achievements are a powerful
+currency for me.
+Justice ⑥
+All crimes are relative to
+their effect.
+FEATHERSHAWL
+Catalyst ⑧
+History ⑧
+Moon Magic ⑩
+SPECIALTIES SIGNATURE ASSET
+Owlfeather Cloak ⑧
+9
+BACKGROUND FOR THE NARRATOR
+Nausics is a stocky, older Skywing elf with elaborate
+facial tattoos. Like most Skywing elves in Innean, he was
+born without wings. This Innean elder is the Keeper of
+the Primal Well. He’s known for years that Innean was
+drifting towards the mountains and he hopes to take the
+Primal Well with him during the inevitable evacuation.
+He has secretly forsaken his oath to not touch the Primal
+Well—by luring citizens into his keep and convincing
+them to try to hold the Well. His experiments haven’t
+been successful. The frozen bodies of these elves are kept
+in a lair beneath Nausics’ study, at the end of a staircase
+hidden behind a bookshelf. After many failures, Nausics
+now has armor—the Cuirass of Vuxen commissioned
+from the local blacksmith, who is proficient in weaving
+powerful Sky magic into the city’s rare metals—which
+should allow the wearer to carry the Well.
+Nausics’ lies have drawn lines on his face, though he
+hides it behind the warm demeanor of a respected public
+figure. He’s eager to tell someone the truth and repent
+for his horrible experiments, something he believed was
+necessary but hated to do.
+Nausics is driven primarily by the value of Truth. He
+is desperate to confess his sins to someone, and he stops
+at nothing to make PCs complicit in his redemption
+quest involving the Cuirass of Vuxen. By succeeding
+in contests of Truth, his Truth value die rating steps
+up, along with his catalyst die, up to a ⑫. But for each
+of those wins, another one of his values is stepped down
+at the Narrator’s discretion. Particularly vulnerable to
+be stepped down are Nausics’ sense of Mastery and
+Justice as he descends into his obsession.
+Cuirass of Vuxen and the Primal Well
+Forged in Innean by the local blacksmith, Vuxen, this
+cuirass redirects Earth and Sky magic energy around the
+wearer in ribbons that orbit them, rather than the wearer
+becoming frozen by the powerful magic forces. It is an
+asset, the Cuirass of Vuxen ⑩.
+If anyone touches the Primal Well without wearing
+Nausics’ Cuirass of Vuxen to protect themselves from
+its powerful magic, the person making contact might be
+frozen into a magical statue. If they do find the armor, the
+Primal Well is rather simple to pick up.
+Skywing Elf ⑧
+Keeper of the Primal Well ⑧
+Dark Secrets ⑧
+DISTIONCTIONS VALUES
+Liberty ⑧
+I am a servant to my people,
+whether they understand
+or not.
+Mastery ⑧
+To know a power is to
+control the future.
+Truth ⑧
+Patience may keep me
+from being transparent,
+but I mean well.
+Devotion ⑥
+I remember the love of others
+like a nostalgic dream.
+Glory ④
+I am genuinely selfless in
+my pursuit of freedom
+for Innean.
+Justice ⑧
+I see the greater good and
+the sacrifices needed with
+brutal clarity.
+NAUSICS
+Catalyst ⑧
+Stewardship ⑧
+Sky Magic ⑩
+SPECIALTIES SIGNATURE ASSET
+Necklace of Warning ⑧
+10
+SCENE STRUCTURE
+Lost Oasis is told in two acts, each made up of scenes
+involving the three intertwining threads. The point in the
+tale at which the first act ends and the second one begins
+is the collision of Innean with the mountainside.
+Threads
+Three threads lace through the story: one with each of
+the two catalysts, the third involving the evacuation of
+Innean’s townspeople.
+Each player chooses a thread to follow; it’s not required
+for the group to stay together, and probably preferable if
+they split up to deal with multiple threads through the
+adventure. Depending on the scene, this may mean PCs
+are separated from each other, or are at least entering from
+different directions. Players can create their own threads if
+they wish, and we offer suggestions for additional scenes
+(page 32).
+However…
+…The three narrative threads forge ahead with or without
+the attention of the PCs, and there are consequences for
+neglecting them.
+Anyone who went with a catalyst has a harder time
+getting off the island if someone else isn’t helping the
+evacuation effort. If nobody helps the catalysts, their final
+confrontation is offstage and lacks a mediator, and you
+should consider additional ways the landscape might
+suffer, both narratively speaking and the actual earthand-stone landscape that may shatter in the ensuing
+showdown.
+Only by playing effectively and somehow nurturing all
+three threads can players save the most lives and get away
+with the Primal Well.
+ANOTHER TALE
+We hope you enjoy this story, and if your players grow
+attached to their characters and would like to keep going,
+go right ahead! These catalysts might continue to have
+relationships with characters, or you might have your own
+ideas for new ones. We hope your finale leaves the door
+open for adventures that you and your friends
+weave together!
+PROLOGUE
+After a long period of floating upwards, from the side of
+the mountains at Xadia’s border and along a pale beam
+of moonlight, the PCs arrive in Innean with a loud
+WHOOOMP, the violet magic that brought them to the
+island still swirling around them in tufts. Everyone adjusts
+to the unusual feeling that they stand upon floating
+earth. The spell that Feathershawl’s been casting for the
+journey transitions to an illumination spell that lights
+up the area around them. Boots are all now planted in a
+small stone courtyard, in the supposedly abandoned city
+of Innean. Although, it looks curiously clean and wellkept. The soft purple light of Feathershawl’s spell reveals
+that the cobblestone isn’t dirty or dusty, it appears swept,
+and the high stone walls around the edges of the city are
+occasionally broken up by archways that once led outside
+of town. Raised bridges close the archways, apparently
+built by an optimist who imagined a controlled landing
+more than a collision.
+Everyone feels the sensation that they’re slowly drifting
+west towards the looming mountainside. The PCs
+hear Feathershawl mutter, “Well, that’s interesting!” to
+themself. The pale purple moonbeam magic continues to
+arc and swirl from their fingertips, only now it seems to be
+pulled forcibly between the buildings and towards some
+sort of keep at the center of town.
+A small chicken skitters around
+the corner, intrigued by the
+bright alien magic.
+PROLOGUE – ARRIVING ON INNEAN
+Give players an opportunity to establish their
+characters here at the very beginning of your tale—
+they might deliver a clever one-liner about the
+chicken or the landing, remark on something they
+find interesting, etc.
+As a catalyst, Feathershawl is a crucial character
+for the plot, and the shape of the story changes
+depending on how PCs interact with them. Do
+your best to convey that, though a bit abrasive,
+Feathershawl’s quest to end their Ghosted exile from
+Moonshadow culture isn’t entirely selfish and they
+truly want to bring prosperity back to their people.
+Despite their occasional brusqueness, they seem
+genuinely grateful to have the PCs with them. The
+loss that motivates Feathershawl underlies a lot of
+their interactions. For instance, if PCs make fun of
+their name, Feathershawl might remark that it’s the
+only thing they have left of their family, and let any
+possible uncomfortable silence be felt.
+12
+Wiggy, a small chicken
+The first creature to scope out the party, Wiggy
+is a proud hen who suffers no fools and loves
+the child Pereka dearly. She enjoys perching on
+shoulders and being coddled; she tends to seek
+out the nearest high-status person and cling to
+them for clout.
+All livestock in Innean are considered the
+community’s responsibility and no one’s property,
+so no one stops a PC from picking up or keeping
+Wiggy. This hen is called Wiggy because of her
+wig-like floppy head feathers, but she can learn
+to respond to a new name. Innean chickens have
+crossed beaks, where the top of the beak angles a
+bit to one side and the bottom to the other, because
+they’re used to being hand-fed.
+If frightened, Wiggy lays an egg, but won’t leave
+it under any circumstances. This can become
+awkward when the egg is laid on a person’s
+shoulder, but she has perfected advanced
+beak-wing-and-foot juggling techniques to keep the
+egg secure on a person’s shoulder as if in a nest.
+ACT ONE – RABBLE RABBLE
+If you’re playing this scene alone as a playtest, remember
+to give your players a summary of the notes and Prologue.
+Tell them they’ve just landed, the island needs evacuating,
+the clock is ticking, and their guide Feathershawl didn’t
+tell them people would be here in the first place. They’ll be
+able to split off into the next three scenes, and you can either
+continue to those scenes or simply stop once you’ve found
+opportunities to give your players a test or contest.
+Innean is a city stuck in time, centuries ago. PCs who
+are familiar with Skywing culture find the scenery eerily
+familiar yet alien, as even some of the writing on signs has
+drifted into a strange dialect. This self-sufficient society
+seems to show a learned simplicity and peace.
+It’s quite clear that this city is occupied and there was
+some serious omission of that fact. There’s what looks like
+a functioning library, a functioning blacksmith, and the
+noises of civilization. Only a few shops appear to have
+been recently boarded up, as if their occupants have
+gone missing.
+Invite players to question Feathershawl, who’s been nice
+enough but is now unquestionably distracted by the spell
+they’re casting. Purple swirls arch dramatically from their
+fingers. PCs with any magical abilities notice the odd trail
+the spell leaves as it drifts, compass-like, towards the keep.
+Suggest that the players discuss amongst themselves what
+they think the best course of action is now that there are
+potentially people to save.
+Remember to let Feathershawl be changed by how PCs
+treat them; they are dynamic in their tone just like the
+PCs your friends control.
+If approached with any hostility, Feathershawl defends
+their continued casting of this spell, but players can try
+to stop them. Here’s what that contest might look like,
+though you can encourage approaches other than the
+suggested dice as the player assembles their dice pool.
+Even if the PCs fail to stop Feathershawl from casting
+now, eventually the spell must end—they can’t keep
+casting forever—at which point the consequences of
+ending the spell occur as described for a success.
+ACT ONE – RABBLE, RABBLE
+13
+CONTEST: Convince Feathershawl
+to stop casting the spell
+• Devotion: Tell Feathershawl there are more
+important things to cast than this spell
+• Truth: Insist that no magical shenanigans are
+allowed until they come clean about why there’s
+a chicken and tidy streets in this abandoned city
+If players succeed, Feathershawl relents, but
+with immediate consequences. As soon as the spell
+stops, the entire city shudders and shakes, tilting
+what seems like a full ten degrees for a moment.
+PCs hear voices in the distance cry out in fear,
+voices they were promised wouldn’t be present in
+this supposedly abandoned city that Feathershawl
+had so carefully researched.
+“Maybe you should have let me keep that spell
+going, huh?” they retort, though they also admit,
+“I wasn’t sure what would happen there, wish I’d
+known better.” Innean’s ground levels out again,
+but now it seems to glide through the air faster.
+Everyone has the distinct (and unfortunate)
+impression that it will collide with the mountains
+much sooner than originally expected.
+If players fail the contest, Feathershawl
+continues casting, eyeing the flow of the purple light
+as townspeople begin to arrive. PCs take Insecure
+stress equal to the effect die on Feathershawl’s
+successful roll as they realize that not only is
+Feathershawl hiding something, but another
+shoe may be about to drop. 
+ACT ONE – RABBLE RABBLE
+Regardless of the outcome of the contest, Feathershawl is
+more focused after the distracting conversation. “We must
+hurry off to work! Lives are in the balance!”
+This mission hasn’t only gone wrong, it may have
+a lot more moral obligation than was promised by
+Feathershawl, who appears more interested in slipping
+away than addressing the PCs directly.
+An increasingly large crowd of Skywing elves surrounds
+the PCs, with more chickens and a pig underfoot. None
+of them were supposed to be here.
+Beebee, the small pig
+An inquisitive pig about the size of a French
+bulldog starts scoping out the party’s feet with its
+snout. Innean pigs have developed short wool to
+stay warm at high altitudes, as well as short horns
+for digging grubs out from between cobblestones.
+Beebee considers everything that fits in its
+mouth either food or something to play fetch with.
+Overtly friendly and overly trusting, it either wants
+to play, eat, or nap. It also occasionally rolls on its
+back, inviting PCs to rub its belly.
+PCs can give Beebee a new name if they choose,
+and it considers responding after being addressed
+by it once or twice. It’s happy to join the party if
+invited and can be convinced to do many simple
+tasks if vigorously tousled.
+Feathershawl rushes up to one of the elves, an older man
+with elaborate face tattoos who appears to carry himself
+with some authority (this is Nausics). PCs can hear
+their conversation if they follow Feathershawl, but the
+thick crowd follows, insistent on getting a lift out of
+the floating city.
+Feathershawl and Nausics argue…
+“Please, old man. Take me to the Primal Well
+immediately. I am your only hope of leaving here
+alive, and I have my own people to save. Let’s go!”
+“Old man? Listen here, I am no uneducated fool,
+and I am not scared of you. I have my own magic.
+With an opening line like that, I certainly won’t help
+you and your magical mystery cape fly off with the
+most precious artifact in my home.”
+Regardless of whether they’re overheard, everyone can see
+that Feathershawl and Nausics are growing frustrated with
+each other. Feathershawl stomps away and begins to eye
+the keep, pacing up and down the cobblestone. If any PCs
+are suspicious about hidden truths, they may want to stop
+Feathershawl from getting even one step away. Innean
+elves, including Nausics, are beginning to approach.
+Some point to the looming mountains. The pig snuffles at
+everyone’s feet.
+What do the players choose to do? Reassure them
+that they don’t need to all stick together and won’t be
+punished through gameplay if they temporarily part ways.
+There are multiple plot threads forming that they should
+consider focusing on. They could:
+• Check in with Feathershawl and try to stop them
+from stomping away.
+• Approach Nausics, who is actively vying for
+their attention.
+• Talk with the townspeople, particularly the ones
+worried about their impending collision with
+the mountain.
+What happens next is up to the players. They may proceed
+as a united front or have separate scenes. If the players
+choose to do nothing, Nausics approaches the PCs.
+14
+ACT ONE – RABBLE RABBLE
+Feathershawl
+If the players choose to follow Feathershawl as their
+continued guide, they move on to the scene Extraction
+(page 16). But if players perceive Feathershawl as a threat,
+they may want to stop them altogether. In this case, have
+a contest; here’s some suggestions for players assembling
+that dice pool.
+Once Feathershawl is subdued or breaks free of the
+crowd, they end their spell if it’s still going, causing the
+convenient distraction of the island city briefly tilting
+and chaos ensuing as the island seems to speed up. If
+Feathershawl stopped the spell earlier (page 13), there’s
+already enough chaos for them to create a distraction.
+Nausics
+The Skywing elder is ushering any PCs who agree to go
+with him into his keep for safety, and for an important
+conversation he wishes to have with these outsiders.
+Feathershawl can only be dragged into the keep alongside
+Nausics if they are forced to—kicking and screaming—as
+they don’t wish to waste time placating him.
+If the players choose to speak to Nausics, proceed to
+An Eager Invitation (page 18).
+Townspeople
+Players who choose to talk with the townspeople now
+face a test to win over the crowd, collaborating on an
+evacuation. You can leave the “how” up to players; these
+are suggestions if you and your players aren’t sure how to
+approach the situation. The listed traits are merely one
+aspect of the dice pool they’re building, depending on
+how they want to approach the situation.
+15
+CONTEST: Stop Feathershawl from
+running off to another location
+• Devotion: Appeal to their better nature
+• Justice: Appeal to their sense of fairness
+• Truth: Insist they owe you and these people an
+explanation of what’s going on
+• Strength: Grab Feathershawl
+If players fail the contest but insist on following
+Feathershawl as they dart off, proceed to Extraction
+(page 16) with that new hostility (and some
+Exhausted or Angry stress on the PC) in mind.
+If players fail and decide to ignore Feathershawl
+for now as they go hunt for the Primal Well, they
+take Exhausted or Angry stress and proceed to
+either An Eager Invitation (page 18) or Mass Flight
+(page 19).
+If players succeed, they can proceed how they
+wish. Perhaps they pin Feathershawl to the ground.
+Perhaps they demand Feathershawl become more
+polite for the moment or make them admit that
+they never really focused on collateral damage,
+hoping the town would evacuate before you all
+got there. Feathershawl mutters about their own
+people starving, no less in need of saving than these
+Skywings. But Feathershawl is temporarily stopped,
+hoping to slip away soon.
+TEST: Get the crowd to trust the PCs with
+evacuation (Challenging + Crowd )
+• Liberty: Tell the crowd you want to bring them
+safely to your lands below
+• Justice: Announce that, though you came
+here to explore, you see lives need saving and
+wish to help
+• Devotion: Announce that you will do your best
+to help save every life
+The crowd is gasping “Who are you?” and
+“Please, help us evacuate!” Depending on how this
+goes, consider if the crowd interactions create an
+asset or a complication for players.
+If players fail, they take an appropriate stress
+and become a bystander as an NC takes the lead
+or the crowd looks to another PC, proceed to
+Mass Flight (page 19).
+If players succeed and mingle with the crowd to
+address their cries for an evacuation plan, proceed
+to Mass Flight (page 19).
+ACT ONE – RABBLE RABBLE
+What Next?
+Thus ends your big opening scene!
+If your players express an interest in an option not listed
+here, you should read ahead and consider the other likely
+outcomes (in particular the reactions of the catalysts,
+who both take note of how the PCs proceed) and create
+your own improvised action and bridge scenes that
+guide the tale towards the inevitable collision and one
+of the possible first scenes of Act Two. Take the reins,
+clever Narrator; you can forge your own version of the
+story! Just remember to include tests, contests, and/or
+challenges in each scene to give them a sense of
+deeper purpose.
+You’ve also had some chances to try some testsand
+contests, so thanks for trying that out!
+ACTION SCENE –
+EXTRACTION
+Do any PCs accompany Feathershawl?
+If you’re just playing this as a playtest scene, it’s not very
+long, so we recommend playing Act One – Rabble Rabble
+and reviewing the Prologue first!
+Assess how much PCs have warmed up to Feathershawl
+thus far. If PCs are joining Feathershawl now, but nobody
+has yet confronted Feathershawl about their spell
+(page 13) or trying to break away (page 15), consider
+adapting elements of those contests for a new
+contest here.
+If Feathershawl gets a chance to start sharing a plan,
+they lean in with excitement, relieved to have the PCs
+on their side. If every PC is in the huddle with them,
+they also acknowledge that the townspeople might want
+some assistance.
+“Extracting the artifact is going to be… difficult,”
+Feathershawl says, eyeing the PCs to see if they have
+any taggers-on from the crowd. If PCs have NCs in
+tow, Feathershawl quietly tells PCs to meet them by the
+inn next to that great stone keep where their magic led.
+Feathershawl runs off and attempts to disappear down
+an alley.
+Players can choose to chase them down rather than wait,
+facing a contestagainst the secretive Feathershawl. The
+townspeople continue to wait, should players decide they
+don’t agree with the following plan and wish to join the
+townspeople instead. As players assemble their dice pool,
+here’s a couple of ideas on where to start.
+Feathershawl expresses their plan, first venting... 
+That one with the elaborate facial tattoos, Nausics, he
+claims to want to save the artifact but is obsessed with
+irrelevant customs and... something about a confession?
+Give me a break. Distract him if you like, but I suspect
+he’s best avoided if we’re to get out of here in time.
+Now that the city is moving a little quicker, ahem, I
+suspect we only have an hour or so before a collision
+with the mountain. And even then, only a little longer
+before the entire city crumbles and the artifact is
+possibly destroyed. Will you help me?
+If PCs agree, Feathershawl lays out their plan to search
+for a hidden entrance to the keep. It requires all the
+PCs’ focus and means ignoring the pleas of worried
+townspeople. And the PCs can hear them calling “We
+must evacuate, now!” in the nearby square.
+16
+CONTEST: Catch up with Feathershawl
+as they flee
+• Agility: Run as fast as you can
+• Spirit: Plead for them to slow down
+so you can catch up
+Any new Innean pals politely wait in the street
+during such a chase. If caught, Feathershawl offers
+a more frustrated version of the following scene,
+because if PCs wanted to skip a chase, they should
+have just gotten rid of those pesky townspeople in
+the first place. Catch on to that whole sneaky heist
+vibe, ya know?
+Clearly Feathershawl has a one-track mind. Players who
+wish to force them to confront any truths or morality
+must win a contestagainst Feathershawl. Here’s three
+examples to get part of a player’s dice pool started.
+If the PCs haven’t followed this thread, this conversation
+might happen later, rather than in this particular scene.
+17
+CONTEST: Get Feathershawl to fess up to the full story
+• Spirit: Get them to agree to confess for
+team morale
+• Devotion: Out of a concern for the people
+in town insist they explain their motives
+• Truth: If they won’t be honest, they can’t
+be trusted
+Feathershawl hems and haws about how the
+collision probably won’t be fatal, but with a success
+they admit that they’d hoped the townspeople would
+simply lower the bridges on their gates when Innean
+drifted close enough. Maybe the PCs would even
+provide a distraction while Feathershawl went to find
+the Well.
+Feathershawl also confesses that they aren’t just no
+longer welcome among their people; they’re a former
+elder, fallen from the grace the higher status elves
+enjoy. They hope that something like the Primal Well
+won’t just redeem them with their family but reinstate
+their entire way of life. They remain resolved to the
+task at hand and won’t be especially keen to discuss
+their shame, but they hope this admission of privilege
+will garner them a little more trust from PCs.
+If the PCs are allied with this catalyst, this is an
+important contest. If the PCs succeed, Feathershawl
+remembers the conversation, is more likely to defend
+the PCs, and their catalyst die is stepped up. This
+makes them more formidable in an escape and more
+likely to intervene if an NC gets in a PC’s way as they
+improvise something risky. Overall, success should
+cue you as Narrator to treat the catalyst in a new way
+during the rest of this tale.
+If players fail, Feathershawl continues to be
+relatively cold, thinking of PCs more as means to an
+end than as allies, and PCs take Angry or Insecure
+stress. When asked whether they knew about the city
+being occupied, Feathershawl simply sighs and rolls
+their eyes, insisting, “Will you help me save my people
+from starvation, or not?” PCs can then either rejoin
+another thread, noting the evacuation only a street
+or two away, or agree to Feathershawl’s terms and
+proceed to Overdue Notice (page 23).
+ACT ONE – RABBLE RABBLE
+ACTION SCENE –
+AN EAGER INVITATION
+Do any PCs go along with Nausics?
+If you’re just playing this as a playtest scene, it’s not all that
+long. We recommend reviewing the Prologue and playing
+Act One – Rabble Rabble first!
+The Skywing elder with elaborate facial tattoos introduces
+himself as Nausics, the Keeper of the Primal Well.
+“Welcome, welcome to Innean!” he says warmly, hurrying
+you into his keep as voices carry through the now-windy
+streets. “I’m so sorry to distract you from the evacuation,
+but my people are wise and I know they are destined to
+figure something out. Please, I need a desperate moment
+of your time.”
+The face of the keep is simple and more rustic than the
+rest of already rural Innean. The keep’s wall stones are
+dark, flat, and round, harvested from a natural riverbed
+the city long ago left the geographic vicinity of.
+Nausics wants to know how PCs got to Innean, asking
+with an element of distaste how well they know
+Feathershawl. He prefers to address a familiar-seeming
+Skywing if one is amongst the PCs, but he’s warm to
+all PCs.
+Nausics asks the PCs to sit and eat of the local harvest and
+drink of the local vineyard, all while learning of Innean’s
+history. Like a proper mayor he seems eager to share the
+best of his town, but unlike one he seems to be in shock
+and unable to react normally to the imminent collision.
+If PCs ask questions regarding specific townspeople or
+buildings, he furrows his brow and demures, saying he
+doesn’t get out much and hasn’t much to say about other
+people. He only wants to speak of his days in the Well’s
+keep, the Keepers of old, long dead leaders of the past, and
+what a lovely stew he’s made. It might seem rather odd,
+and PCs might want to call out the idea of sitting and
+eating at a time like this.
+To learn anything more about Innean from him and grind
+his rambling customs to a halt, players must win a contest
+against Nausics.
+Here’s some suggestions of things players might want
+to use in their dice pool if they want to engage in
+this contest.
+Regardless, he expresses that Feathershawl insisted on
+skipping dinner and wanted to see the Well immediately,
+which he found impossibly rude. He adds, “The Well
+needs a Keeper, you see, because of its power. To touch
+it without guidance will likely destroy you, and I myself
+have taken an oath that would cause me to crumble into
+dust if I even dared to lay a finger on it.”
+Unless PCs choose to run right out of the building,
+proceed to More Than a Mouthful (page 24). Nausics
+checks to see if any other PCs outside might be convinced
+to join him and may make a passing remark that he
+believes this meeting in his keep is more important than
+“panicking” to evacuate. He’s in charge here for a reason,
+he assures the PCs, though he twitches nervously with
+what he wishes to divulge next.
+18
+CONTEST: Get Nausics to get to the point
+• Truth: Insist that food and stories all seem
+like a distraction
+• Devotion: Explain that lives will be lost if
+you don’t hurry
+If players succeed, Nausics admits he’s known
+for some time that Innean might collide with the
+mountains soon, and it’s caused him to become
+even more emotionally distant from his people. He’s
+rambling on and on because this is the last meal
+he’ll have in his home, and he apologizes profusely.
+For PCs allied with this catalyst, this is an important
+contest. If the PCs succeed, he remembers this
+moment and it affects how he treats the PCs who
+succeeded from now on. He becomes a steadfast
+ally for the PCs and his catalyst die is stepped up.
+If players fail, Nausics wraps an arm around a
+PC and talks of how well the bounty of the local
+gardens makes for a hearty broth that, “You’ll likely
+never find in Xadia again.”
+ACTION & BRIDGE SCENE –
+MASS FLIGHT
+Do any PCs stay to help the townspeople with
+the evacuation?
+If you’re just playing this as a playtest scene, we
+recommend reviewing the Prologue and Act One –
+Rabble Rabble first! But this is a big scene we’re
+looking forward to, which includes a challenge!
+It’s time to plan an evacuation! Window-cakes in some
+bakeries have tilted as a result of Feathershawl’s citytipping magic surge, and everyone is eager to help. But
+can you meet the challenge? The townspeople are bright
+and brave, so if PCs are already panicking don’t be afraid
+to have an NC reassure them that all things are possible!
+If your players are having trouble figuring out their
+options, see “What’s the Plan?” on page 22.
+19
+CHALLENGE: Help evacuate Innean!
+(Challenging, Medium    )
+Impress upon your players that they should
+strategize how to get rid of the dice in your
+challenge pool. This is a ⑧⑧⑧⑧  challenge, as it
+is a Challenging difficulty (⑧⑧) and of Medium
+length (+2 dice) if there are, say, 4 players in this
+scene. Feel free to add or subtract a die depending
+on whether there are more or fewer players than
+that. And of course, here’s some dice PCs might
+want to assemble to beat the pool.
+• Awareness: Find a fortified place to hide
+• Strength: Gather resources and supplies to help
+• Intellect: Plan a way off the island
+• Spirit: Reassure and calm the people
+Each PC has a turn to roll against the challenge
+pool, declaring what their part of the evacuation
+plan is, rolling the dice, and comparing their effect
+die against the challenge pool’s dice (⑧). If the
+effect die is ⑩ or greater, one of the challenge
+dice is removed. If the effect die is ⑧ or lower,
+one of the challenge dice is stepped down (and can
+be removed on subsequent turns with a ⑧ effect
+die). After all the players have taken their turns, the
+challenge pool can target one of the PCs and try to
+deal Afraid, Exhausted, or Insecure stress.
+ACT ONE – RABBLE RABBLE
+Townspeople of Note
+No visitors have come to Innean in centuries and the elves
+not only have questions, but theories. For the ensuing
+interactions with the people of Innean, choose from the
+provided list of NCs, or create your own. Let players
+find solutions on their own through their choices and
+successes; none of these NCs have all the solutions handy.
+Nekrex
+Nekrex (he/him) is the captain of the guard. He wears
+simple armor and wields a light club. He’s used to merely
+putting drunks in the drunk tank and other very light
+police work, and he’s never had to think about life outside
+of Innean. He’s thoroughly confused as to what the PCs
+even represent. He’s never seen much trouble beyond
+some reckless youth and an occasional wayward vulture
+attacking the hens, and his impression of an authority
+figure is based almost entirely off of what he’s read in a
+manual passed on to him by his predecessor, the previous
+captain, Gormuss. Though he announces himself formally
+with “In the name of Innean, stand down and announce
+y-y-your intentions!” he’s terribly nervous and eager to
+please. He accompanies the party if they wish, though if
+the party next encounters Nausics, Nausics is rather wary
+of whether Nekrex puts a kink in his master plan. Nekrex
+is very outgoing regardless of how PCs might proceed and
+should step forward in a pinch.
+Siftress and Pondaryss
+Siftress (she/her) and Pondaryss (she/her) are eager
+to get the party’s full attention and discuss portents and
+evacuation, respectively. They work together, clear voices
+for evacuation.
+Pereka and Olanna
+The young girl Pereka (she/her) and the animals (see
+Wiggy on page 12 and Beebee on page 14) are tugging
+at the PCs’ pant legs, hoping to tag along with whatever
+happens next. Wiggy is especially fond of Pereka. Olanna
+(she/her) also begins to follow closely, listening eagerly to
+any plans. Both can be shooed away but are eager to chat
+up a receptive visitor.
+Nekrex is captain of the guard, a kind of folksy,
+small-town, elected position—the only other guards
+are volunteers—and has the only proper (though
+non-magical) armor in town. He’ll accompany
+the party as protection, if they ask, but can’t stop
+turning the topic back to why they don’t just try
+to fortify Innean’s foundation, because there’s
+some really nice sports (field tag) and vegetablefermented ales (cloud turnip cider) here that he’d
+hate to go without if forced to evacuate. Though
+not capable as much more than a warm body, he
+does carry a small club.
+NEKREX
+Captain of the Guard ⑧ Proud ⑥
+Ceremonial Armor ⑥
+20
+ACT ONE – RABBLE RABBLE
+Pondaryss is an elderly, crotchety woman who
+agrees that everyone must evacuate, but thinks
+the PCs are actually a group of tricksome ghosts
+planning to lead them into oblivion. She is bemused
+but ultimately resigned to this fate and copes by
+taunting PCs for being so cruel and meddlesome at
+a time when someone should be building a series of
+magic hang gliders instead. If she ever meets folks in
+the land below, she’ll of course also accuse them of
+being ghosts.
+PONDARYSS
+Ghost Whisperer ⑥ Clever ⑥
+Siftress claims to have seen the fall of Innean
+coming…and though the town and party might
+doubt her, she really did. A light user of Sky magic,
+she saw the wind of fate that would carry Innean
+into the mountain months ago and warned Nausics
+of it. 
+SIFTRESS
+Skywing Mage ⑥ Helpful ⑥
+PEREKA
+Fearless ⑩ Animal Friend ⑥
+Pereka is a young girl who’s put in peril rather
+easily. She expresses an interest in following the
+PCs around but tries not to influence their choices.
+If allowed to tag along, she’s unafraid of virtually
+everything and asks endless, rapid-fire questions
+about the world of Xadia below Innean. She has
+some chewing gum made from local tree root she
+offers in a pinch if she thinks it will soothe PCs.
+21
+ACT ONE – RABBLE RABBLE
+Olanna is a young woman, sharp and direct and
+used to getting her way. She asks to accompany
+the PCs, and insists they focus almost entirely on
+the escape. She has no combat usefulness but
+does try to rally a rescue operation regardless of
+PC proximity and collaboration. Expect to see her
+stay behind to get every last elf off of the city island
+when it collides.
+OLANNA
+Forthright ⑥ Headstrong ⑥
+What’s the Plan?
+It’s all systems go as PCs hurry to set up an evacuation
+via one of the plans listed here, or with one the players
+come up with. But before evacuation, they must brace the
+organized townsfolk for impact—in the middle of town,
+but slightly closer to the west side, so as to avoid being in
+direct contact with the impact or part of a now crumbling
+city, yet close enough that there isn’t far to run to get
+off of Innean. For anyone in this scene, the catalysts are
+difficult to reach until they’ve finished their business with
+the Primal Well and are beginning their escape.
+Hang Gliders
+Pondaryss (page 21) has a rather goofy plan to create
+magically reinforced hang gliders out of palm fronds,
+branches, and Sky magic. Though far-fetched, a little PC
+enthusiasm persuades the magically studied locals Noko
+(page 32) and Siftress (page 21) to discuss and debate
+what they know about ancient imbuements of Sky magic
+on physical material that just might work. PCs need to
+succeed at a Hard test (⑩⑩) using Mastery to help
+the town pull off making enough for everyone. Helpful
+NCs can contribute dice to the player’s dice pool.
+Portable Bridge
+Olanna (see above) is particularly adept at scouting
+solutions, and if PCs rely on her she realizes that some
+quick organization could get an entire bridge in town that
+spans a small chasm to be removed and repurposed as a
+portable bridge that can be secured and used to evacuate
+onto the mountain wherever the island makes contact,
+provided the collision itself doesn’t send everyone straight
+down the mountainside. To see this physically herculean
+construction effort through with Olanna, players need to
+pass a Hard test (⑩⑩) using Glory.
+Town guard captain Nekrex (page 20) makes sure the
+bridge is moved safely and efficiently, if asked, providing a
+⑧ asset.
+Convenient Cliffs
+If given any responsibilities, Pereka (page 21) takes some
+elves to the edge of the city and discovers evidence of
+some cliffs on the mountainside, a way some elves might
+be able to escape down to more relative safety. Players
+need to pass a Challenging test (⑧⑧) of Devotion if
+one wants to spread the word of Pereka’s observation to
+the entire population.
+THE COLLISION
+Unfortunately, the collision has its consequences. As
+the dust settles, a large cave is revealed in the side of the
+mountain. At first there are cheers from the people of
+Innean. A safe, level path off of the main body of Innean!
+And most of the town is standing, hooray! But suddenly,
+massive centipede-like creatures lurch out of the cave
+with horrible screeches. As the shrieks fill the PCs’ ears,
+continue this thread with Roars of Freedom (page 29). The
+current scene, Mass Flight, also serves as a bridge scene
+into the collision, so PCs who help with the evacuation go
+straight to Act Two for their next scene.
+22
+Bailynn, Innean’s librarian, is on her way out with as
+many books as she can carry. She pauses when seeing PCs,
+who now face a test to see if they can convince her to give
+them free rein of her beloved building.
+ACT ONE – RABBLE RABBLE
+If players see the plans forming with catalysts and wish
+to split off to join one of those more solitary elves, they
+need to make a Challenging test (⑧⑧) to escape cleanly,
+or else the crowd insists that PCs are critical to their
+evacuation, and the PC takes Insecure stress for trying
+to abandon them in their hour of need.
+Both catalysts wouldn’t mind help; in fact, Nausics is even
+more insistent that PCs ignore evacuation efforts and
+join him instead. Feathershawl, however, is now harder to
+talk to with adders-on, requiring a possible repeat of the
+contest in Extraction (page 16) where they try to duck
+into an alley at the sight of townspeople.
+BRIDGE SCENE –
+OVERDUE NOTICE
+Do any PCs help Feathershawl look for the Primal Well?
+Pleased that PCs are joining them, Feathershawl scouts
+the buildings adjacent to the Well’s keep, looking for
+basements that might allow for an underground passage
+to the Well’s chambers, which they are convinced is one
+floor below ground. They also apologize for not making
+nice with Nausics, but they assure you they anticipated a
+magical seal around the Primal Well and planned for such
+a contingency.
+They scout three buildings, remarking dispassionately
+about each.
+“An inn? Here? Must be for wayward souls more than
+visitors. What a depressing concept.” 
+“A craft shop? Look at all the chicken feather jewelry.
+You’d think they’d have access to more birds than that,
+this high up in the sky. Not exactly my style.”
+“A library? Ugh. With a town this small it must be all
+fiction. Those kinds of books are truly life’s dullest! But
+that’s our best bet for a basement, let’s go.”
+PCs hear distant shouts that evacuations efforts are
+underway, but Feathershawl appears quite unmoved.
+If asked about it, they simply remind the PCs that this
+artifact represents hope for people both here and across
+Xadia. However, it’s clear that they are obsessed with
+the Primal Well and it has led to them lying in the past,
+particularly regarding the city having a living population.
+TEST: Get access to the library (Easy )
+• Suggested traits: Spirit or Intellect
+If there’s a success, Bailynn happily allows the
+group in and Feathershawl misleadingly promises,
+“We simply want to leave with as much of Innean’s
+history as we can carry.”
+If PCs fail, Feathershawl harshly nudges Bailynn
+aside with a muted apology. She looks at PCs in
+horror, who can then easily follow Feathershawl
+or re-evaluate their thread one last time. (Note: if
+Feathershawl pushes Bailynn, both Feathershawl
+and PCs have their Justice die stepped down by one
+until the end of the tale.)
+The Collision
+After hurrying past dusty shelves and a desk with a halfeaten sandwich on it, Feathershawl finds the wall adjacent
+to the keep. Moonlight peers down the staircase and
+they reflect it onto the wall, causing bricks to float away,
+revealing a second, darker wall of bricks belonging to the
+lower level of the keep. As these bricks peel away, PCs
+suddenly lurch forward. Shelves fly everywhere, separating
+everyone from Feathershawl for at least the moment.
+Innean has collided with the mountain. Proceed to
+Moon Steals Earth and Sky (page 27).
+23
+Meanwhile, back in the study, astute PCs—having been
+told not to—touch everything. 
+Whether PCs are in the study with the artifacts and
+books or in the den with Nausics himself, a contest using
+Truth reveals Nausics’ hubris. He’s hiding something
+dreadful.
+ACT ONE – RABBLE RABBLE
+CONTEST: Get Nausics to show
+you his secret
+• Suggested traits: Truth
+With a success in the den, Nausics reveals that
+he’s convinced more than a few Innean residents to
+try to touch the Primal Well with various iterations
+of his magical armor, the Cuirass of Vuxen, and
+they’ve all been frozen. The armor he wants a PC to
+wear, he admits, is the result of much suffering.
+If the PC fails, Nausics clams up before he admits
+the worst, and simply moves to getting PCs to try
+the armor. The PC takes appropriate stress.
+BRIDGE SCENE –
+MORE THAN A MOUTHFUL
+Do the PCs go with Nausics into the keep?
+The waiting area is decorated with Innean artifacts,
+portraits of Keepers past, and historical links to the
+Skywings of Xadia below such as old tableware
+and pottery.
+To the left is a dining room with a pleasant den built in.
+A warm hearth with a boiling broth, a dinner table with a
+local root prepared, some kind of unusual lute hanging on
+the wall—a cozy spot for stories to be sure. To the right is
+a study with more artifacts and books and a desk.
+Ahead, there’s a stairwell behind a translucent, glowing
+blue wall of magic. It’s clear, given the context, that the
+wall is some sort of magical protection Nausics watches
+over, or possibly even controls. If PCs want to see the
+Primal Well from where they now stand, this barrier
+needs to come down. And Nausics won’t allow it yet.
+“Thank you for accepting my invitation. On behalf of my
+forefathers, please, sit and listen for just a breath. I have to
+confess,” Nausics says.
+If there’s more than one PC in the keep with Nausics,
+one is invited to split off and peruse the study. Nausics
+says, “I suppose you should take in some of our culture.
+An imagination carries more stories than any satchel. But
+they are… technically my belongings. So please only touch
+the books.”
+PCs who enter alone or choose to sit with Nausics
+are served a hearty, home-cooked meal made in the
+roaring hearth by the dining table. As he serves it, he
+remarks he was making a meal too large to eat alone
+when Feathershawl’s disruption occurred. He explains
+that he knew the collision would happen, and he finds
+Feathershawl’s pushiness to salvage the artifact a grave
+insult to generations of Innean elves.
+Nausics carefully puts out the fire, notes that the collision
+is imminent, and encourages PCs to brace themselves.
+“Don’t worry,” he says, “I’ve studied this inevitability for
+years. I’m certain you have at least an hour to get
+off this island, and I only need a few more minutes of
+your time.”
+24
+The Collision
+When the collision occurs—and you want to time it just
+so—let it happen as players have felt some of the tension
+of the Nausics conversation. Then, after the force of
+impact is complete and there is only a deep and ominous
+rumbling as the city begins its slow deterioration, tell
+players that no stew has spilled, and Nausics has with
+great skill served himself the last bowl. No matter the
+timing, the last thing he says before the collision is...
+You and your companions are truly saviors to me, for I have
+taken an oath to never touch the Well. I would crumble
+to dust if these foolish fingers made contact with it. But
+one of you lot, wearing a chestplate of magical armor I
+commissioned and have gone to great lengths to test, can
+safely deliver the Primal Well from Innean. And trust me,
+you need the chestplate.
+Before PCs in the secret lair have time to communicate
+with PCs in the dining room, the scene abruptly
+transitions to Sky Defies Moon (page 27).
+TEST: Find something in the study
+(Easy )
+• Suggested traits: Intellect
+A failure simply gets PCs called back into the
+den. A success reveals a strange gargoyle clinging
+to the ceiling; tugging on the tongue that wags from
+its maw causes a bookcase to slide aside.
+Hidden behind the book case is a torchlit set
+of stairs. There’s just enough time to quietly
+descend into a secret lair that Nausics didn’t intend
+anyone—let alone these interlopers—to discover.
+Inside there are various mummified Skywing
+elves, all warped by some sort of Sky or Earth magic.
+Their faces are frozen in horror, the rest of their
+bodies twisted like swirls of fiberglass and sparkling
+marble. They seem trapped in this stasis, frozen
+and not quite dead. And thankfully in such a magical
+solid state, they might very well survive a plunge
+down the mountainside when this city collapses,
+though only the heavens know how to cure them.
+25
+Congratulations, Narrator! With each scene this story is
+more and more in YOUR hands. There’s only so much
+guidance we can provide from here on out, but here’s a
+framework for your upcoming improvisations. Your own
+adventure as a Narrator may feel harrowing, but you’ve
+already helped weave a story that includes a floating island
+colliding with a mountain. That’s a lot. So, don’t worry,
+you’ve got this!
+Make sure you congratulate players who prepared
+thoroughly for the collision. While the city is now
+crumbling slowly, you can explain that it would be
+absolute chaos without the PCs. Unbeknownst to them
+there’s some monsters up ahead, so any unity amongst the
+townsfolk is about to become quite valuable.
+ACT TWO – AFTER THE COLLISION
+You may increasingly feel like you want to allow for
+player ingenuity not covered here, and that’s fine! Make
+sure you’ve read all the way through to the end and look
+at some of the additional scenes (page 32) we offer, so
+you can see how things might deviate from the simplest
+narrative threads.
+From this point on, everyone’s either headed to the Well’s
+keep getting ready for a showdown, or they’re clearing the
+way for townspeople to evacuate, so all the PCs should
+be tied up with some kind of conflict that way. But soon
+they’re all reunited in the same goal—escape. Innean isn’t
+the quaint floating getaway it was just a few minutes ago.
+26
+ACT TWO: AFTER THE COLLISION
+ACTION SCENE –
+MOON STEALS EARTH
+AND SKY
+Were any of the PCs with Feathershawl during the collision?
+Players open with a Challenging test (⑧⑧) to extricate
+their PCs from the fallen debris before the action begins
+to break from bad to even worse. Those who quickly free
+themselves hear Feathershawl note with unusual calm—
+and perhaps callous disregard for the others affected—
+that this is actually better because with a half-wrecked
+library and damaged foundation, the magic flows better
+and bricks peel away easier. 
+However, Nausics isn’t far from the chamber on the other
+side, and there are traps!
+Bricks that are removed from the foundation of the keep
+spring to life and attempt to float towards characters. If
+the maw stones make contact, their tiny saw-like teeth
+gnaw at PCs until they can be pried off in a test.
+The tiles on the floor of the Primal Well’s chamber
+contain ancient Moon magic and touching or stepping
+on one activates a limb splicer trap that creates the
+illusion that the appropriate limb has swapped places
+with another limb on that person’s body. It takes a certain
+amount of lifting/jumping up and re-initiating contact
+for the limbs to appear back in the right places. Here’s
+suggestions on dice for a PC’s pool.
+TEST: Break free of the maw stones
+(Easy )
+• Suggested trait: Strength
+On a success, the PC brushes off the stones
+and moves to the next test so fast that they’re a
+step ahead of arguing catalysts. A failure means a
+PC takes Afraid stress and risks not getting to the
+Primal Well before a desperate Feathershawl or a
+protective Nausics.
+TEST: Grab the Primal Well with
+your parts in the right places
+(Challenging + Limb Splicer )
+• Agility: Limit contact with tiles in general
+• Intellect: Track which tiles swap what
+limbs where
+• Mastery: See through the illusion used in
+this trap
+With a failure the limbs appear to be randomly
+shuffled on that person’s body. As an illusion, the
+process is bloodless and painless but it’s meant
+to delay intruders until Nausics the Keeper can
+respond to the alarm.
+The process should make for an intense scene that only
+makes Feathershawl hungrier for the Primal Well, which
+floats at the center of the room. Should they reach it,
+transition to Feathers Fly (page 29).
+ACTION SCENE –
+SKY DEFIES MOON
+Were any PCs in Nausics’ keep during the collision?
+Dinner, in a sense, is spoiled. Here Nausics may hear
+one, possibly two alarms ring from his necklace. A chime
+emanating from a stone in his necklace alerts him that
+Feathershawl is in his basement (possibly with some
+fellow PC companions, who are just Feathershawl’s
+hired goons as far as Nausics is concerned). There’s a
+second chime alert should another character have made
+it to his secret lair full of frozen townspeople. Nausics
+starts calling on his own magical defenses—Sky magic
+channeled through his necklace—but he is humbled
+and looking for allies. He won’t pick a fight unless PCs
+want one.
+Nausics trusts that his basement traps sufficiently delay
+anyone a few minutes and first tries to convince the
+nearest PC of his intentions.
+27
+ACT TWO: AFTER THE COLLISION
+TEST: Winged armor grapples
+you and tries to dispatch you
+(Challenging  + Winged Armor )
+• Strength: Fight the armor
+• Agility: Dodge the armor
+• Mastery: Outwit the foolish magic animating
+the armor
+Their magic-empowered metal wings (belonging
+to Skywing elves of long ago) means that their goal
+(in a failed test) is to drag their target out the front
+door, up into the open winds, and attempt to fly
+them off the island to be dropped to their doom.
+If the “lair alarm” is sounded, he tells the PC to follow
+him to the lair and attempts a group confession. (NOTE:
+Facing his demons in the lair steps up Nausics’ Truth,
+but steps down his Liberty.)
+If any trust is earned, Nausics lifts his Cuirass of
+Vuxen from a display mannequin. This armor was
+developed by Vuxen, the local arcane blacksmith, and
+Nausics presents it to the PCs in the room if they aren’t
+trying to punish him. The armor allows the Sky and Earth
+magic coursing through the Primal Well to be pushed
+away from the one who touches it. Nausics couldn’t test
+this armor himself because of his oath. So, he lured some
+townspeople into his keep over the last decade to have
+them try different iterations of this cuirass. Dozens of
+innocent people have been put into a kind of magical
+coma as a result. The armor works now… probably.
+He tells you he’s worked extensively with Vuxen to
+have this cuirass fine tuned, and Vuxen himself briefly
+demonstrated its effectiveness before realizing its dark
+history and refusing to collaborate with Nausics any
+further. Nausics would like a PC to be the final guinea
+pig, if they’ll trust him, and he’ll plead if necessary.
+He’s honest and forthcoming about his dark decisions
+because he sees it as a part of the journey that must be
+confessed, in almost a religious way that one
+might expect from a shaman-like Keeper here
+in this culture.
+But is anyone listening to a confession so
+disturbing, let alone indulging it? That’s up
+to your players. But if no one volunteers,
+he brusquely places the armor on the most
+valiant-seeming character nearby and rushes
+them towards the basement.
+Nausics is also willing to defend himself. If
+needed, his three suits of Winged Armor
+spring to life, grabbing at PCs.
+Nausics isn’t too bad with a nearby quarterstaff, either, so
+feel free to improvise a hand-to-hand contest with him
+here if you like.
+Should players survive the encounter, proceed to
+Primal Deliverance (page 30).
+28
+ACT TWO: AFTER THE COLLISION
+ACTION SCENE –
+ROARS OF FREEDOM
+Were any PCs helping with the evacuation during
+the collision?
+There’s a pretty clear objective for PCs here—they’ve
+gone from careful logistical planning to mitigating chaos.
+Giant centipedes are attacking the townspeople!
+First, have everyone roll an Easy test (⑥⑥) to get out
+of the collision rubble in the street. Then, reveal the
+segmented, many-legged horrors of the mountain caves
+as a challenge.
+Remember to read the additional scenes (page 32)
+for inspiration on how to keep things lively and
+unpredictable, especially if you’re weaving this tale for
+the second, third, or fourth time and want to add a bit of
+spice to the recipe. For all we know, a now-loyal Beebee
+the Pig is wearing the Cuirass of Vuxen and running
+across Innean with the Primal Well strapped to its back.
+Is that even possible? We guess so! But we’ll let you write
+that scene yourself.
+Hopefully the centipedes can be dealt with, but
+regardless of the outcome, proceed to From Cloud
+to Anvil (page 31).
+ACTION SCENE –
+FEATHERS FLY
+Do the PCs attempt to remove the Primal Well with
+Feathershawl’s help? 
+It’s time to get out of here, and the clock is ticking before
+Innean is completely gone. If PCs are still stuck on Innean
+proper dealing with the Primal Well, combat is quick and
+brutal and fates are sealed swiftly. But Innean isn’t long
+for this world, so whatever time PCs have left is best spent
+running like the wind! Unfortunately, the Primal Well
+doesn’t give a PC floaty-flying powers or anything; it’s just
+a hot potato on a crumbling sky platform. PCs could be
+tumbling down the mountain soon, or worse! 
+For a PC wearing the Cuirass of Vuxen, that
+asset makes it as easy as plucking up the Primal Well
+and running.
+Characters not wearing Nausics’ special armor are in
+for a nasty surprise, and that includes Feathershawl
+themself. Anyone who touches the Well without the
+Cuirass of Vuxen must survive a difficult challenge,
+or else face a creeping, magical stiffening stress to their
+hand(s), one that ends in becoming a mummy of marble
+and fiberglass if they don’t give up on touching it. Tell
+them it’s alarming, their hands becoming jet black, and
+as the challenge progresses, they should see the ominous
+consequence coming. Here’s some suggestions for how
+they can attempt to survive with their die pool.
+CHALLENGE: Monstrous Centipedes
+(Hard, Medium )
+A collision with the mountains causes these
+creatures to be disturbed from their subterranean
+life, and they attempt to chase and devour PCs and
+townspeople alike.
+You’d be wise to scale the number of giant
+centipedes to match the number of PCs outside—
+one fewer ⑩ if there’s fewer than 4 PCs, but one
+more ⑩ if there’s more than 4—but either way it’s
+a dangerous scene. As the centipedes thunder into
+the city, townspeople rush towards the cave and
+seek cover, but they’re prone to wailing and drawing
+attention to themselves, making them excellent
+sources of hostage-level peril.
+Depending on how the PCs have prepared, this
+challenge can be resolved in many clever ways.
+• They can choose to confront the centipedes
+directly (they must either be vanquished,
+subdued, or chucked off the edge of the floating
+city, where there is a six-foot-high stone wall to
+hoist them over).
+• They can usher townspeople over the bridge
+and into the mountain paths or the cave
+using Devotion.
+• They can evacuate themselves and other
+townsfolk from Innean in their new hang gliders
+using Agility.
+29
+ACT TWO: AFTER THE COLLISION
+If the catalysts see each other here, they immediately
+lock in combat, and if PCs don’t intervene, they try to
+incapacitate each other with Moon magic and Winged
+Armor, respectively.
+There’s just enough time to pull the Well out of the socket
+it hovers in, make a mad dash for the bridge (or crumbling
+collision-point of city and mountain), and hope the
+PCs land in a safe spot without too many centipedes or
+longneck hillwolves occupying it. That’s right, longneck
+hillwolves—there’s seriously a lot going on out there.
+Hopefully at least one of the PCs was helping evacuate,
+because if everyone went with Feathershawl there’s a
+whole lot of conflict—by way of Nausics and monsters—
+in the PCs’ path now. If PCs locked in a contest with
+Nausics lose, they’re doomed to, at worst, be stuck in the
+keep as it crumbles, or at best flee only to vainly reach out
+towards the survivors who are safe.
+The good news about aligning with Feathershawl is that,
+unlike Nausics, they’ve never deliberately caused harm
+before, making them surprisingly redeemable. They thank
+the PCs (if they make it off Innean in mostly one piece
+with the Primal Well) and share more about the time
+when they were underprepared for the plague of worms
+that decimated the Moonshadow food supplies. Hoping
+to bring back something that could float acres of crops,
+they express—even to Nausics if he’s nearby—that there’s
+a plan in place that makes good use of the Primal Well. It’s
+just that Feathershawl is often too headstrong to stop and
+explain things to others before it’s too late, a bad habit
+from when they were still a privileged elder. They reveal a
+small crystal, hidden in their cloak, which shimmers with
+the images of dozens of different Moonshadow elves as
+it’s turned in their hand. “These are images of my family,”
+Feathershawl says quietly, “and thanks to you, I may see
+more than this illusion of them soon.”
+But if nobody cleaned up the monsters, they’re in for one
+more test or contest with them, and if PCs fail, they may
+go down the mountainside with a crumbling Innean or
+have to sacrifice the Well.
+Feathershawl listens to characters rage and vent and
+they offer apologies. This is more than the PCs get from
+Nausics, who now faces his dark choices in the aftermath
+and feels little of anything anymore—unless Nausics was
+bested by an unforgiving character and didn’t make it
+out alive.
+Time to proceed to the Aftermath (page 34).
+ACTION SCENE –
+PRIMAL DELIVERANCE
+Do the PCs attempt to remove the Primal Well with the
+help of Nausics and his Cuirass of Vuxen? 
+He’s quite keen on helping, but only if PCs sit and listen
+to his confession before he surrenders the Cuirass of
+Vuxen. If PCs listened and have it, the good news is he
+keeps Feathershawl preoccupied with his Winged Armor
+and quarterstaff, and he shares that the armor makes PCs
+immune to his traps, so they should be able to run down
+the stone steps, grab the Primal Well, and run! Hopefully
+another PC is with the second group and vouches for the
+PCs to Feathershawl if necessary. Otherwise it’s a contest
+against Feathershawl.
+Unfortunately, Nausics emboldened by having a PC as
+an ally is more likely to try and incapacitate Feathershawl
+as well, so intervention is necessary if PCs wish to keep
+everyone safe; having had a second PC at the dinner
+makes such an intervention much easier. One to snatch
+and run, one to mediate. But who knows, maybe PCs will
+leave them at each other’s throats, morally grey as they
+both seem.
+CHALLENGE: Survive grabbing the Primal
+Well with your bare hands!
+(Very Hard )
+It’s for one player, but it’s incredibly difficult.
+• Strength: Brace your body
+• Spirit: Steel your soul
+• Mastery: Run your history with magical
+processes through your mind as you fight
+back against the magic
+• Devotion: Think of the Moonshadow people
+who will benefit from this artifact one day
+30
+ACT TWO: AFTER THE COLLISION
+If PCs manage to scramble the Primal Well away
+and have Nausics at their side, he pledges a life of
+service and accountability, offering to let PCs take
+him to the authorities of their choice. He won’t
+apologize for trying to take out Feathershawl,
+though. If the catalysts are somehow left on
+a mountain path or in a cave together, they
+certainly aren’t making a lot of eye contact right
+now.
+When you’ve seen who lived to be a part of the
+tale-telling, proceed to the Aftermath (page 34).
+ACTION SCENE – FROM
+CLOUD TO ANVIL
+Are any PCs outside in the streets helping to
+evacuate the citizens of Innean? 
+Congratulations, because this pivotal thread required
+some serious selflessness, and success in Roars of Freedom
+(page 29) means PCs could have hang gliders waiting
+for their friends, a large bridge assisting the escape, and
+maybe even fewer monsters. Accomplishing any one of
+these three goals means every citizen could make it out
+alive, if things still go well here.
+Manage the chaos, and ideally meet up with PCs who
+made a go for the Primal Well, and PCs just might survive
+with all the townspeople and only lose the respect of a
+catalyst or two. Proceed to the Aftermath (page 34).
+Longneck Hillwolves
+Another danger adds itself to the centipede chaos—
+longneck hillwolves run along the narrow mountain
+path that Innean now leans against. Their painful bite is
+just annoying for elves and humans, but they’re eager to
+eat the pigs and chickens and they cause anarchy in an
+already complicated evacuation.
+If the PCs don’t distract the creatures or combat them
+mightily, panic bests everyone and a few elves (or
+chickens) might not get out before the landmass crumbles
+completely, their silhouettes disappearing in a massive
+cloud of dust.
+Longneck Hillwolves
+A breed of creatures that look like carnivorous,
+fanged alpaca roams the mountains. After the
+collision they impede mountain trails and even run
+onto Innean streets. Though mostly uninterested
+in humanoids, they hungrily chase the chickens and
+pigs of Innean and are happy to bite at the terrified
+people as they either try to escape with livestock
+in tow or generally shriek at the sight of the beasts.
+Not as aggressive as the creatures of the caves, they
+can be tamed, but they’re dangerous nonetheless.
+CHALLENGE: Hide or dodge
+from the longneck hillwolves
+(Easy, Medium )
+• Suggested traits: Agility or Influence
+PCs who fared well in Roars of Freedom (page 29)
+can use other townspeople (page 20) as assets
+in this scene, making it easier for their companions
+to emerge from the Well’s keep and make it to
+relative safety.
+31
+ADDITIONAL SCENES
+Noko wished to be the next Keeper, but he’s
+clearly lost his chance by the time the PCs arrive.
+He’s eager to discuss magic, and PCs might notice
+the robed figure and trust his youthful energy more
+than Nausics’. Though not intended to be a catalyst,
+a crafty Narrator could spin the tension between
+Noko and Nausics into a new thread about Noko’s
+sincerity and humble values de-escalating the pride
+of one of the two original catalysts.
+NOKO
+Sky Magic ④ Useful Lore ⑧
+In The Way ⑧
+needed to escape with the Primal Well. Vuxen recently
+learned of Nausics’ dark scheme; he could be useful in a
+scene involving atonement or guilt-driven heroics.
+SUCCESSION
+Noko is the aspiring apprentice to Nausics—except that
+Nausics doesn’t want an apprentice. Noko has no real
+aptitude for magic but he’s obsessive about lore. He’s
+spent a great deal of time in the museum above the Primal
+Well but has been (ruefully) denied entry to the relics in
+Nausics’ home. He would love to help the PCs with the
+Primal Well, regardless of which catalyst they choose.
+We found these scenes didn’t fit the most linear way to tell
+the story and it’s possible you won’t use them either. But
+by reading them you might discover some surprise twists
+to throw into your tale and fire up your imagination’s
+furnace for a scene not included elsewhere. If you’re just
+playtesting a few scenes, consider this section a reminder
+that forking off into a completely improvised location and
+scenario can be a lot of fun.
+WELDED FATE
+Vuxen, the arcane blacksmith, fashioned quite a powerful
+artifact in the Cuirass of Vuxen. There isn’t time
+for him to make a second cuirass, so the original is still
+Vuxen made armor for Nausics and can be
+persuaded to spill the tea, especially if the PCs
+haven’t learned about the Cuirass of Vuxen from
+Nausics yet. Perhaps a curious PC asking about
+weapons in Act One spots his burned smock
+in a crowd. Vuxen might have another forged
+experiment available or another item or two in
+stock that PCs could use as an asset.
+VUXEN
+Brilliant Blacksmith ⑧ Primal Lore ⑧
+Trustworthy ⑧
+ADDITIONAL SCENES
+32
+LOYAL SWARM
+If chickens (page 12) and pigs (page 14) are so friendly
+here, perhaps an army of them could be bootcamp trained
+in an hour by a PC who loves animals. Who knows?
+They might even be able to form an asset against a giant
+centipede if the dice rolls came out right.
+DESCENT OF THE COWARD
+PCs might not only hang glide to Xadia below, but
+selfishly bail and find themselves a relative nonparticipant in the great evacuation. The adventure doesn’t
+end when they choose a hang-gliding escape. If a selfish
+townsperson joined them, be sure to tell the PC about
+how relieved (or not relieved) they are in a conversation
+on the way down. If a PC sadly loses the fight above and
+tumbles to their doom (hopefully no one is that reckless),
+consider mixing this with the Purgatory Plummet scene.
+PURGATORY PLUMMET
+If someone falls off Innean—through combat, as a frozen
+statue of magic, or other bad skydiving premise—you
+should break it to them: things look grim. And if you
+think your players might enjoy a bit of gallows humor,
+you can try it with a smile, like this...
+Sorry to see you go, but sometimes exploring a giant
+floating rock up near outer space can lead to some seriously
+bad consequences.
+You’re falling fast now. Faster. Faster. The shattered remains
+of a nearby toy shop tumble around you. You note that
+instead of teddy bears, there’s only plush pigs and chickens.
+But they’re all wearing cute little outfits. You’d sure like
+to stay alive so you could collect them. There’s a pig in a
+detective costume, a chicken in a lawyer costume. So creative!
+You keep falling. Boy, mountains sure are high up.
+Eventually you see what must be the toyshop’s sole plush
+badger. Wow, you think, how cool! Innean had stories, or
+drawings, of a badger! Then you realize it’s not a badger,
+it’s just a pig in a little cat burglar costume. You realize this
+right before you collide with the forest below.
+For anyone who escaped on a hang glider, as you and your
+compatriots reach the end of your hang glide, you hear a
+voice cry out above you, “Oh wow, a badger!”
+Then your friend rockets past you as you hear them say
+“Oh, wait…”
+You surmise that their last memory was a disappointing
+badger experience.
+OTHER SAD OUTCOMES
+Escaping Innean is a matter of life and death, but you
+aren’t required to subject your players to graphic death
+scenes. You can utilize the chaos to mask or imply that
+not everything went great, and certain fates are unknown.
+Do a headcount after the escape and grimly note that the
+number is smaller than hoped. Explain the confusion and
+the monsters were just too much to overcome and leave
+it at that. There are also plenty of consequences that can
+show the intensity of the situation without killing
+anyone off.
+The Primal Well is the easiest sacrifice. If you don’t want
+this rare artifact to disappear forever, have a centipede
+snag it with their mouth at the last possible second as a
+consequence of a fight-gone-bad, and everyone can watch
+the precious artifact rocket upwards, a confused centipede
+holding on with its mandibles, and disappearing upwards
+into a distant speck.
+If a loss seems to suit the story, there’s no need to
+describe a hand reaching out and falling away with the
+plummeting cobblestone. You can often say even more by
+saying nothing at all, having your NCs bow their heads in
+sorrow and grief, and let loss speak itself without words. If
+a PC’s loss suits the story, that’s fine as long as the player is
+driving the narrative of how their character dies heroically.
+33
+THE AFTERMATH
+If characters escape with the Primal Well thanks to the
+Cuirass of Vuxen or amazing challenge rolls, they
+notice that three colored crystal deposits have formed
+on it: blue, red, and violet. They represent primal sources!
+PCs can attempt to remove and use them, but if they
+touch one, the other two shatter. Try to grab two or
+all three at once and they all shatter. Sorry, greedy
+mages! Blue leaves PCs with a Sky source ⑥, Red
+with an Earth source ⑥, and Purple with a
+Moon source ⑥ (thanks for glomming that last one
+on only a few hours ago with the screw-up, Feathershawl).
+PCs who escape without the glory of saving the Primal
+Well see it rip itself free of something. Maybe rubble,
+maybe the sad hands of Feathershawl or a PC who
+grabbed it too late, or perhaps the hands of Nausics as he
+turns to ash. The Primal Well rockets up into the sky now
+that the island isn’t there to lock it into a fixed altitude.
+Regardless of the Well, each active Narrator character
+should thank the companions for whatever good they did
+with the time they had.
+Now, perhaps they face a long trek down a mountain
+path. PCs could be exploring a winding cave hoping to
+find an opening in the foothills. They could be floating
+gently with their hang gliders and meeting some confused
+Moonshadow elves below.
+Thus ends your Lost Oasis tale, and the quest for the
+Primal Well.
+WHAT’S NEXT
+Players may find their character now has a vendetta, a
+death wish, or new trajectory for their artifact-hunting
+career. Pay attention to what a PC wants, desires, and
+excels at and you might very well find the springboard for
+your next adventure! There’s plenty of tales you can weave
+for yourself now, from helping Feathershawl walk the
+Primal Well back to their people through a mountain pass
+guarded by humans, to finding Nausics a therapist while
+he’s in Skywing prison.
+FANDOM
+Writing & Rules Design: Cam Banks (Rules Primer) & Dan Telfer (Lost Oasis)
+Editing: Amanda Valentine
+Graphic Design & Layout: Tina Lam Collier
+Narrative Lead: Dan Telfer
+Creative Director: Cam Banks
+VP of Tabletop Gaming: Adam Bradford
+WONDERSTORM
+Creators: Aaron Ehasz & Justin Richmond
+Managing Producer: Joe LeFavi | Genuine Entertainment
+Tales of Xadia: The Dragon Prince Roleplaying Game is published by Fandom Inc.
+Tales of Xadia: The Dragon Prince Roleplaying Game uses the Cortex system. The
+Cortex system and the Fandom logos are © 2021 Fandom Inc. All rights reserved.
+Reference to other copyrighted material in no way constitutes a challenge to the
+respective copyright holders of that material.
+The Dragon Prince and all associated characters and elements are © 2021
+Wonderstorm, Inc. and used under license by Fandom Inc. All rights reserved.
+Artwork and graphics © and ™ Wonderstorm, Inc. All rights reserved.
+Credits
+Strength
+Spirit
+Intellect
+Influence
+Awareness
+Agility
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+ASSET
+Durenian Spear ⑧
+A long, tri-pointed spear
+common among Durenian
+soldiers.
+Spearfighting ⑧
+Agriculture ⑥
+SPECIALTIES
+ATTRIBUTES
+Durenian Freefolk ⑧
+ɬ Hinder: Gain one Ⓟ● when you switch out this distinction’s
+die rating for a ④.
+Soldier of the Garden ⑧
+ɬ Hinder: Gain one Ⓟ● when you switch out this distinction’s
+die rating for a ④.
+ɬ Graceful Warrior: Spend a Ⓟ● to add both your
+Agility and Strength dice to your dice pool in a test,
+contest, or challenge that deals with battle, instead of
+just one attribute.
+Never Back Down ⑧
+ɬ Hinder: Gain one Ⓟ● when you switch out this distinction’s
+die rating for a ④.
+ɬ Resolute: Spend a Ⓟ● to add one of your stress dice to
+a test, contest, or challenge. Step down that stress die
+afterwards.
+VALUES DISTINCTIONS
+Liberty ④
+Society is too important for me
+to put myself above it.
+Mastery ⑥
+I won’t make a fool of myself
+fixing what isn’t broken.
+Truth ⑥
+My actions speak louder than
+empty promises.
+Devotion ⑩
+I find passion and heart in
+everything, even battle.
+Glory ⑧
+Although fighting is often
+unpleasant, my legacy
+demands it.
+Justice ⑧
+When honor calls, I do
+not waver.
+DIYAN
+As headstrong as he is kind, Diyan fought alongside Vinaya in Queen
+Aanya’s army wielding a thick skull and a Durenian spear. But his soul
+was sprinkled with wanderlust, and he hopes to indulge it in an era of
+peace. If human hostilities ever ebb, he hopes to travel with Vinaya to
+visit Katolis, like their Duren ancestors did.
+Agility
+Awareness
+Influence
+Intellect
+Spirit
+Strength
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+ASSET
+Chronicles of Elarion ⑧
+A bound collection of stories, tales,
+and poems from the ancient days of
+the Human Kingdoms.
+History ⑥
+Politics ⑥
+Diplomacy ⑥
+SPECIALTIES
+ATTRIBUTES
+Durenian Noble ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+Herald of the Queen ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Orate: Spend a Ⓟ to double your Influence or Spirit
+die on a test, contest, or challenge that involves using your
+speaking voice.
+You Don’t Have to Remind me! ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Instant Recall: Spend a Ⓟ to remember a helpful fact or
+detail from something you once read, giving yourself or an
+ally an asset for a single test, contest, or challenge.
+VALUES DISTINCTIONS
+Liberty ⑥
+The real fight is work, not
+tussling in the streets.
+Mastery ⑧
+Through determination
+I will outsmart them all.
+Truth ⑩
+You can find a liar by the scent
+of their lies.
+Devotion ④
+I have my friends, but who
+needs everyone else?
+Glory ⑥
+War is for the weak. I’d
+rather surgically analyze the
+problem.
+Justice ⑧
+I may be bitter, but it’s
+because I so clearly see
+right from wrong.
+VINAYA
+Vinaya recently felt her icy noble veneer crack when she and her
+best friend Diyan met Winda the hunter, who shared her skepticism
+of manipulative personalities. Vinaya’s specialty is seeing through
+centuries-old grudges that her elders lean on like crutches, and her
+friends try to convince her to use that power for more generous
+reasons than she may normally be inclined.
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+Agility
+Awareness
+Influence
+Intellect
+Spirit
+Strength
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+ATTRIBUTES
+Del Barian Hinterlander ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Tough: Spend a Ⓟ to convert your Injured or
+Exhausted stress into another kind of stress. If you
+already had stress of that new type, step up that stress.
+Trailblazing Hunter ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Keen Eye: Spend a Ⓟ to double your Awareness or
+Agility die in your dice pool when following a trail, aiming
+at a distant target, or spotting something far off.
+Foolhardy Friend ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+VALUES DISTINCTIONS
+Liberty ⑩
+You couldn’t drag me to a fancy
+meal kicking and screaming.
+Mastery ⑧
+My survival skills are incredibly
+important to hone.
+Truth ④
+I’d rather serve you snark than
+what I’m really feeling.
+Devotion ⑧
+I may snark, but I’m loyal to
+a tee.
+Glory ⑥
+I’d rather wander alone than
+upset the balance.
+Justice ⑥
+I don’t run from wrongdoing,
+but I don’t run to it either.
+WINDA
+After the death of King Florian, Winda grew dispassionate about her
+homeland and decided to explore the wilderness. There she discovered
+her new friends Diyan and Vinaya of Duren. Though gruff and sarcastic
+by nature, she has grown curious about the greater possibilities for
+Xadia and whether her actions could actually play a role in
+its unification.
+ASSET
+Light Crossbow ⑧
+A finely-crafted crossbow
+with a case of quarrels.
+Tracking ⑧
+Climbing ⑥
+SPECIALTIES
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+Strength
+Spirit
+Intellect
+Influence
+Awareness
+Agility
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+ATTRIBUTES
+Moonshadow Elf ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Elf Grace: Spend a Ⓟ to step up your Agility die in your
+dice pool for a test, contest, or challenge that factors in
+your elven speed and balance.
+ɬ Moonshadow Form: When trying to hide, sneak, or go
+unseen during a full moon, spend a Ⓟ to double your
+Moonshadow Elf distinction die in your dice pool and
+keep an extra die in your total.
+Homesick Assassin ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+A Song for All Occasions ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+VALUES DISTINCTIONS
+Liberty ⑥
+I yearn for the security of my old
+home.
+Mastery ⑩
+I rely on my deadly skills during
+this trying time.
+Truth ④
+Facts only matter if they help
+get the job done.
+Devotion ⑧
+I am open to new bonds as I
+search for my path.
+Glory ⑧
+I’ve traveled far and hope it
+was for a purpose.
+Justice ⑥
+I have yet to find true balance
+in this world.
+ELJAAL
+Eljaal travelled a great distance to Del Bar to assassinate a human target
+some months ago. Before they could complete the task, their target
+fell to his death in a climbing accident in clear view of Eljaal. They have
+since been wandering the human lands, trying to come to grips with
+the future ahead, knowing that the elves they love might not accept
+their circumstantial failure. Eljaal hopes to find a new purpose, or a
+reassuring path home.
+ASSET
+Elven Sword-Staff ⑧
+This staff has blades on either end
+which can rotate outwards when
+in use.
+Sneaking ⑧
+Swordplay ⑥
+SPECIALTIES
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+Agility
+Awareness
+Influence
+Intellect
+Spirit
+Strength
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+ATTRIBUTES
+Sunfire Elf ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Heat-Being: Add ⑧ Angry stress in order to step up both
+your Agility and Strength for the duration of any test,
+contest, or challenge.
+Knight of Lux Aurea ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Stalwart: Spend a Ⓟ to step down all of your stress dice
+after you succeed at a contest with a foe.
+Fickle Luck ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+VALUES DISTINCTIONS
+Liberty ⑥
+I am a servant, not a conqueror.
+Mastery ⑧
+My sword is as hot as my temper,
+and it will not slip my grasp.
+Truth ⑥
+Fools need smiting more than
+they need saving.
+Devotion ⑧
+I love my people as much as a
+warrior can.
+Glory ④
+If my name does not go down
+in the history books, so be it.
+Justice ⑩
+My great might represents
+defense, not destruction.
+BINETA
+Sister of the mage Babukar, Bineta considers herself not only a knight,
+but the very dagger in the hand of Lux Aurea itself. Bold and unafraid,
+she has a knack for carving through the densest battlefield, though she
+will likely pick up some careless scars along the way.
+ASSET
+Sunforge Blade ⑧
+This blade glows with heat.
+Thankfully it comes with a
+magical protective sheath.
+Swordplay ⑥
+Animal Training ⑥
+Strategy ⑥
+SPECIALTIES
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+Agility
+Awareness
+Influence
+Intellect
+Spirit
+Strength
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
+ATTRIBUTES
+Sunfire Elf ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Heat-Being: Add ⑧ Angry stress in order to step up both
+your Agility and Strength for the duration of any test,
+contest, or challenge.
+Hotheaded Sun Mage ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+Simplicity is the Best Solution ⑧
+ɬ Hinder: Gain one Ⓟ when you switch out this distinction’s
+die rating for a ④.
+ɬ Straight to the Point: Spend a Ⓟ and either gain a ⑧
+asset or step up an existing asset when undertaking a
+challenge because of your keen insight.
+VALUES DISTINCTIONS
+Liberty ④
+I sometimes get lost in my work
+and forget myself.
+Mastery ⑥
+My talent is innate, not
+something I must polish.
+Truth ⑧
+I have seen so many truths that I
+hardly know my own.
+Devotion ⑥
+Privately I am preoccupied
+with my greater purpose.
+Glory ⑩
+I live to see the day when I
+may overcome a worthy foe.
+Justice ⑧
+I relish my duties, they are
+never a burden.
+BABUKAR
+Brother of the warrior Bineta, Babukar takes quiet pride in his ability
+to strike fear in his enemies alongside her in battle through his
+performance of magic. He also serves as a secret weapon behind the
+scenes, for though he is something of a battle mage, he is also a master
+interrogator and has cracked the minds of foes as well as their skin.
+ASSETS
+Sun Magic Spells ⑧
+ɬ Fulmen Ignem (Bolt of Fire)
+ɬ Circulus Luminis (Ring of Light)
+ɬ Verum Animo (Sense Truth
+of the Heart)
+Sun Magic ⑧
+Crafting ⑥
+SPECIALTIES
+STRESS
+Afraid
+Angry
+Insecure
+Corrupted
+Exhausted
+Injured
