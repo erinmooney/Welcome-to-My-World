@@ -59,6 +59,23 @@ img.photo {max-width:500px;width:50%;
   display: block;
   margin-left: auto;
   margin-right: auto;}
+  
+
+
+.compare {
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+  padding: 3em;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+
+
 
 img.right {float: right;
 max-width:500px;width:50%;
@@ -78,10 +95,10 @@ padding: 5em;
 div.newspaper
  {
   column-count: 2;
-  column-gap: 35px;
+  column-gap: 5px;
   column-rule-style: solid;
   column-rule: 1px double;
-  margin: 20px;
+  margin: 10px;
 }
 
 div.menuA {text-align: center; font-size: 3vw;}
