@@ -1,17 +1,18 @@
-body {;color: #330066;
-font-family: arial, helvetica, sans-serif;}
+body {;color: DarkSlateGray;
+font-family: arial, helvetica, sans-serif;
+font-size: 14pt;}
 
 /* body section {background-image: linear-gradient(purple, orange);}*/
 
 
 /* unvisited link */
 a:link {
-  color: darkblue;
+  color: DarkSlateGray;
 }
 
 /* visited link */
 a:visited {
-  color: darkblue;
+  color: DarkSlateGray;
 }
 
 /* mouse over link */
@@ -21,35 +22,35 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: darkblue;
+  color: DarkSlateGray;
 }
 
 
 body section section {
-background-color: Lavender;
+background-color: Thistle;
 } 
 
 body section section {padding:1em}
 
 body section {
-background-color: Lavender;
+background-color: Thistle;
 }
 
 section.resume
 body section section {
-background-color: Lavender;
+background-color: Thistle;
 } 
-body {background-color: Lavender}
+body {background-color: Thistle}
 
 section.gallery body section section {
-background-color: Lavender;
+background-color: Thistle;
 } 
-body {background-color: Lavender}
+body {background-color: Thistle}
 
 section.posts body section section {
-background-color: Lavender;
+background-color: Thistle;
 } 
-body {background-color: Lavender}
+body {background-color: Thistle}
 
 
 figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw}
@@ -111,6 +112,8 @@ div.menuA {text-align: center; font-size: 2vw;}
  * and is often used in responsive web design (responsive to size of device screens)
  * em is also responsive: it is the width of the standard letter M in your font usually 16 px. 
  *  */
+ 
+h1 {text-align: center;}
  
 h2 {text-align: center;}
 
