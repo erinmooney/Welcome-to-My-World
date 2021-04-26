@@ -134,19 +134,17 @@ div.menuA {text-align: center; font-size: 2vw;
     
 .birdright {float: right;
 border-image-source: url(images/Birdard.png);
-display: inline;
-max-width:75px;width:25%;
-  margin-right: 5px}
-  
-.birdleft {float: left;
-  border-image-source: url(images/BirdardRightFacing.png);
-display: inline;
 max-width:75px;width:25%;
   margin-left: 5px}
   
-.birdie  { content: "";
+.birdleft {float: left;
+border-image-source: url(images/BirdardRightFacing.png);
+max-width:75px;width:25%;
+  margin-left: 5px}
+  
+/* .birdie  { content: "";
   clear: both;
-  display: table;}
+  display: table;} */
   
 /*  Units to try: em and vw. vw means a percentage of the viewport width 
  * and is often used in responsive web design (responsive to size of device screens)
