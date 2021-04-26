@@ -132,12 +132,18 @@ div.menuA {text-align: center; font-size: 2vw;
   border-image-slice: 110;}
   
 .birdright {float: right;
+display: inline;
 max-width:90px;width:25%;
-  margin-right: 10px}
+  margin-right: 5px}
   
 .birdleft {float: left;
+display: inline;
 max-width:90px;width:25%;
-  margin-left: 10px}
+  margin-left: 5px}
+  
+.birdie  { content: "";
+  clear: both;
+  display: table;}
   
 /*  Units to try: em and vw. vw means a percentage of the viewport width 
  * and is often used in responsive web design (responsive to size of device screens)
@@ -154,8 +160,9 @@ h2 {text-align: center;}
   text-align: center;
   margin: 0;
   padding: 0;
+  border-radius: 15px 50px;
 
-  width: 350px;
+  width: 390px;
   padding: 3px;
   border: 3px;
   margin: auto;
@@ -176,7 +183,7 @@ h2 {text-align: center;}
   padding: 35px;
 }
   
-  .parares { 
+ .parares { 
   list-style-type: none;
   text-align: left;
   width: 850px;
