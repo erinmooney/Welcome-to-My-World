@@ -131,13 +131,15 @@ div.menuA {text-align: center; font-size: 2vw;
   border-image-source: url(aesthetic/boarder.png);
   border-image-repeat: repeat;
   border-image-slice: 110;}
-  
+    
 .birdright {float: right;
+border-image-source: url(images/Birdard.png);
 display: inline;
 max-width:75px;width:25%;
   margin-right: 5px}
   
 .birdleft {float: left;
+  border-image-source: url(images/BirdardRightFacing.png);
 display: inline;
 max-width:75px;width:25%;
   margin-left: 5px}
