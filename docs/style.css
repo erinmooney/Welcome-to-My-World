@@ -41,25 +41,18 @@ background-color: Thistle;
 
 body section section {padding:1em}
 
-body section {
-background-color: Thistle;
-}
+body {background-color: Thistle;}
 
 section.resume
-body section section {
-background-color: Thistle;
-} 
+body section section {background-color: Thistle;} 
+
 body {background-color: Thistle}
 
-section.gallery body section section {
-background-color: Thistle;
-} 
+section.gallery body section section {background-color: Thistle;} 
 body {background-color: Thistle}
 
-section.posts body section section {
-background-color: Thistle;
-} 
-body {background-color: Thistle}
+section.posts body section section {background-color: Thistle;} 
+
 
 
 figure {width:30%; margin:auto; padding-top: 1vw; padding-bottom: 1vw}
@@ -124,23 +117,40 @@ div.storyboard
   column-rule: 1px double;
   margin: 5px;}
 
-div.menuA {text-align: center; font-size: 2vw;
-  display: block;
-  border: 30px solid transparent;
-  padding: 25px;
-  border-image-source: url(aesthetic/boarder.png);
-  border-image-repeat: repeat;
-  border-image-slice: 110;}
+
     
-.birdright {float: right;
+/*.birdright {float: right;
 border-image-source: url(images/Birdard.png);
-max-width:75px;width:25%;
+max-width:65px;width:20%;
   margin-left: 5px}
   
 .birdleft {float: left;
 border-image-source: url(images/BirdardRightFacing.png);
-max-width:75px;width:25%;
-  margin-left: 5px}
+max-width:70px;width:25%;
+  margin-left: 5px}*/
+  
+  /* Flex Container */
+
+#menu
+{display: flex;
+flex-direction: row-reverse;}
+
+.birdframe
+{flex: 1;}
+
+.birdmenu
+{max-width:70px;width:25%;}
+  
+div.menuA {text-align: center; font-size: 2vw;
+  display: block;
+  border: 30px solid transparent;
+  border-image-source: url(aesthetic/boarder.png);
+  border-image-repeat: repeat;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+  border-image-slice: 110;
+  flex: 5;}
+  
   
 /* .birdie  { content: "";
   clear: both;
