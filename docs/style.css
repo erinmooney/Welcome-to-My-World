@@ -2,17 +2,7 @@ body {;color: DarkSlateGray;
 font-family: arial, helvetica, sans-serif;
 font-size: 14pt;}
 
-/* body section {background-image: linear-gradient(purple, orange);}*/
 
-.birdleft {max-width:100px;width:50%;
-  display: inline-grid;
-  margin-left: 1%;
-  margin-right: auto;}
-  
-.birdright {max-width:100px;width:50%;
-  display: inline-grid;
-  margin-left: auto;
-  margin-right: 1%;}
 
 /* unvisited link */
 a:link {
@@ -33,6 +23,8 @@ a:hover {
 a:active {
   color: DarkSlateGray;
 }
+
+
 
 
 body section section {
@@ -70,6 +62,14 @@ img.photogal {max-width:500px;width:50%;
   
 
 
+.gamepic
+  {box-sizing: border-box;
+  width: 30%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 45px; /* if you want space between the images */
+  display: flex;
+  flex: 20%;}
+  
+
 .compare {
   box-sizing: border-box;
   float: left;
@@ -90,9 +90,7 @@ max-width:500px;width:50%;
   display: block;
   margin-left: 80px}
 
-/* If I want to style ANY element with the class of "photo" I could just write 
- *.photo{}
- */
+
 
 p.solid {border-style: solid;}
 
@@ -118,16 +116,6 @@ div.storyboard
   margin: 5px;}
 
 
-    
-/*.birdright {float: right;
-border-image-source: url(images/Birdard.png);
-max-width:65px;width:20%;
-  margin-left: 5px}
-  
-.birdleft {float: left;
-border-image-source: url(images/BirdardRightFacing.png);
-max-width:70px;width:25%;
-  margin-left: 5px}*/
   
   /* Flex Container */
 
@@ -139,7 +127,8 @@ flex-direction: row-reverse;}
 {flex: 1;}
 
 .birdmenu
-{max-width:70px;width:25%;}
+{max-width:105px;
+width:100%;}
   
 div.menuA {text-align: center; font-size: 2vw;
   display: block;
@@ -151,15 +140,6 @@ div.menuA {text-align: center; font-size: 2vw;
   border-image-slice: 110;
   flex: 5;}
   
-  
-/* .birdie  { content: "";
-  clear: both;
-  display: table;} */
-  
-/*  Units to try: em and vw. vw means a percentage of the viewport width 
- * and is often used in responsive web design (responsive to size of device screens)
- * em is also responsive: it is the width of the standard letter M in your font usually 16 px. 
- *  */
  
 h1 {text-align: center;}
  
