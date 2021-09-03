@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    
+    <!--The letter below is correspondence between Oscar Wilde and his lover, Lord Alfred Douglas. It was used during a trial against Wilde.-->
+    
+    <letter n="2">
+                
+        <letter-number>Letter 2</letter-number>
+        
+        <description>The following letter was read by defense attorney Edward Carson during his cross-examination of Oscar Wilde in his libel trial.  Carson had asked Wilde to read the letter, but he declined.</description>
+        
+        <date><month>March</month> <year>1893</year></date>, <place>Savoy Hotel</place>
+        
+        <salutations>Dearest of All Boys,</salutations>
+        
+        <para n="1">Your letter was <emotion>delightful</emotion>, <color>red</color> and <color>yellow</color> <drink type="alcohol">wine</drink> to me; but I am <emotion>sad</emotion> and <condition>out of sorts</condition>. Bosie, you must not make scenes with me. They <condition>kill</condition> me, they <condition-state>wreck the loveliness of life</condition-state>. I cannot see you, so <nationality>Greek</nationality> and <personality>gracious</personality>, <personality>distorted with passion</personality>. <guilt-trip>I cannot listen to your curved lips saying hideous things to me.</guilt-trip> I would sooner be blackmailed by every <old-term>renter</old-term> <explaination>["renter"was a slang term for male prostitutes]</explaination> in London than to have you <condition>bitter</condition>, <condition>unjust</condition>, <condition>hating</condition>.<passion>You are the divine thing I want, the thing of grace and beauty;</passion> but I don't know how to do it.Shall I come to <place where="UK">Salisbury</place>? My <cost>bill</cost> here is 49 pounds for a week. I have also got a new sitting-room over the <river where="UK">Thames</river>. <guilt-trip>Why are you not here, my dear, my wonderful boy? I fear I must leave; no money, no credit, and a heart of lead.</guilt-trip></para>
+        
+        <closer>Your own,</closer> <signature>Oscar</signature>
+        
+        
+    </letter>
+    
+    
+    
+    <letter n="3">
+                   
+        <letter-number>Letter 3</letter-number>
+        
+        <description>The following letter was written shortly after Wilde's release from prison:</description>
+        
+        <date><place where="France">Rouen</place>, <month>August</month> <year>1897</year></date>
+        
+       <salutations> My own Darling Boy,</salutations>
+        
+        <para n="1">I got your <message>telegram</message> <time>half an hour ago</time>, and just <guilt-trip>send a line to say that I feel that my only hope of again doing beautiful work in <passion>art</passion> is being with you</guilt-trip>. It was not so in the <time>old days</time>, but now it is different, and <guilt-trip>you can really recreate in me that energy and sense of <emotion>joyous</emotion> power on which <passion>art</passion> depends</guilt-trip>.</para>
+        <para n="2">Everyone is <emotion>furious</emotion> with me for going back to you, but they don't understand us. <guilt-trip>I feel that it is only with you that I can do anything at all. Do remake my <condition>ruined</condition> life for me, and then our <condition>friendship</condition> and <condition>love</condition> will have a different meaning to the world.</guilt-trip></para>
+       <para n="3"> I wish that when we met at <place>Rouen</place> we had not parted at all. There are such <longing>wide abysses now of space and land between us</longing>. But we love each other.</para>
+        
+        <closer>Goodnight, dear. Ever yours,</closer>
+        <signature>Oscar</signature>
+        
+    </letter>
+</xml>
