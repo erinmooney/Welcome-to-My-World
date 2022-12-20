@@ -28,22 +28,22 @@ a:active {
 
 
 body section section {
-background-color: Thistle;
+background-color: #C2C2EB;
 } 
 
 body section section {padding:1em}
 
-body {background-color: Thistle;}
+body {background-color: #C2C2EB;}
 
 section.resume
-body section section {background-color: Thistle;} 
+body section section {background-color: #C2C2EB;} 
 
-body {background-color: Thistle}
+body {background-color: #C2C2EB}
 
-section.gallery body section section {background-color: Thistle;} 
-body {background-color: Thistle}
+section.gallery body section section {background-color: #C2C2EB;} 
+body {background-color: #C2C2EB}
 
-section.posts body section section {background-color: Thistle;} 
+section.posts body section section {background-color: #C2C2EB;} 
 
 
 
