@@ -1,0 +1,46 @@
+  <section>
+            <section>   
+                
+              <section> 
+                  <h2>Reading, writing, and remixing in the digital age: problems and opportunities</h2>
+              </section>
+               <h3> Background – What are We Talking About?</h3>
+                <p class="para"> Media. Whether it is social media, produced media, or traditional arts, we all love it. But how has it changed over time? Some people say that today’s media is more fast-paced, causing our minds to avoid deep concentration. Others say that this is just the beginning in advancing the plasticity of our brains. Do you agree with Plato, that these changes in the media are detrimental? Or do you agree with Professor of Literature Katherine Hayles, who believes that this is just an advancement in the efficiency of our attention span? And how does this affect the media that we like?</p>
+                <p class="para">Whether you have your answer or not, let’s discuss some important factors in this argument! </p>
+                <p class="para">The seven essays discussed are hyper-reading (Baron, 2015), remediation (Bolter, 2014) (Straumann and Jost, 2015), adaptation and transmediality (Straumann and Jost, 2015), remix with the example of YouTube Shorts (Angello, 2014) and its history (Frosio, 2021), read-write vs. read-only (Lessig, 2008), and Wattpad (Lenkner, 2023). Hyper reading essentially explains the difference between deep-reading and skimming content. The other content covers different definitions and particularities of media and how it is adapted and evolves. </p>
+                <p class="para">Wattpad is a website where writers can self-publish both original and fan work, though it is dominantly fan-based content. This website seems like the connector between hyper-reading, remixing, and read-writing. Hyper-reading implies a lack of interest in the content. The reader does not read and contemplate, they just quickly skim the information for the content that they desire. This connects to read-only because the reader does not interact with the content past reading. When any form of media interests someone, they interact with it, making it a read-write and a remix. </p>
+                <p class="para">So, when the audience connects with media, they will remix it, then write, or otherwise make media, correlating with that original media. This makes Wattpad a place where people remediate to make reading more enjoyable by creating more content for the original media or changing something they did not like about the original media. Either way, Wattpad publishes content that people want to deeply read by remixing or remediating existing media. </p>
+                <h3>Analysis</h3>
+                <p class="para">The authors generally agree on what remediation is. As discussed by Bolter, Straumann, and Jost, remediation is the evolution of media being dependent on other media, causing the extension and revisitation of media. </p>
+                <p class="para">Remix by Angello’s and Frosio’s definition of remixing is to alter by extending, selecting, reflexing, or regenerating content including history. This also covers copies and translations. Due to these factors, copyright is more of a complication, though this will not be deeply discussed in this essay. </p>
+                <p class="para">From my perspective, the authors agree on the most important points and nuances regarding the similarities and differences of the terms discussed above. They define remixing and remediating into their own separate niches within an overarching category, which is evolving, updating, and adapting various content.</p>
+                <h3>Opinion</h3>
+                <p class="para">I am not concerned about the future of reading. Though people do not usually dedicate enough attention in order to deep-read, skimming still qualifies as reading. Also, as long as websites like Wattpad are active, it signifies that there is still a strong interest in reading. </p>
+                <h3>Opposing Views</h3>
+                <p class="para">Maryanne Wolf in Baron’s essay on hyper-reading (2015) claims that “the human brain is not built for reading,” and that, “reading brain does not exist! it’s created.” I understand what she meant; there is no formal place in the brain that categorizes reading. Wolf later states that “We can learn to read because our brains are plastic.” So, I argue, that it does not necessarily matter whether we were meant to read or not, it is just how we train our brains. </p>
+                <p class="para">Wolf also fears that deep reading will be lost because it is more time-consuming than what our brains have adapted to. But, if our brains were not meant to read in the first place, and reading is a trained skill, then doesn’t it mean that skill cannot be truly lost? Just like any skill, deep reading will be dependent on the current culture. Today, our culture is more fast-paced, but the next generation may have a greater interest in deep contemplative activities because they are tired of this fast pace. </p>
+                <p class="para">A famous quote by John Adams is, "I must study politics and war that my sons may have liberty to study mathematics and philosophy. My sons ought to study mathematics and philosophy, geography, natural history, naval architecture, navigation, commerce and agriculture in order to give their children a right to study painting, poetry, music, architecture, statuary, tapestry, and porcelain."</p>
+                <p class="para">So, we may study the fast-paced nature of media and life. We may hop from subject to subject in order to satiate our drive for stimulation and information so that our next generation will appreciate the slow, meditative, and time-consuming nature of deep concentration. </p>
+                <h3>Examples of Adaptation, Remediation, and Remixing.</h3>
+                <p class="para">People get bored easily. People do not like a lot of repetition. People do not appreciate three sentences that start the same way.</p>
+                <p class="para">Take, for example, how so many people today are getting tired of superhero movies. However, does the same sentiment work for all repetitive ideas? Many people I have spoken to claim to be tired of how repetitive stories are getting, with similar plots to similar characters. But are they tired of idea repetition or idea recycling?</p>
+                <p class="para">Given our large population, both past and present, and the human brain’s ability to create abstract thoughts and ideas based on data that it comprehends, I believe that ideas will be recycled. There have been too many people with their own similar experiences, thoughts, and ideas for there not to be repeated or recycled ideas.</p>
+                <p class="para">Think of all the alien stories since the movie <i>The Day the Earth Stood Still</i> (1951), or mafia stories since the play <i>I Mafiusi della Vicaria</i> (1860). Even if you do not watch these types of content, you have probably consumed content that has some common elements.</p>
+                <p class="para">Once you break ideas down to their main elements, you will realize that a lot of stories have a common plot but are presented differently. How about a little game? I will describe a base plot, and you guess one of the movies that I chose. Don’t worry, there are no wrong answers!</p>
+                <p class="para">Plot 1: A group must return an item/person to its home.</p>
+                <p class="para">I think of: <i>Moana</i> (2016), <i>The Lord of the Rings</i> (2001), <i>Ice Age</i> (2002), and <i>Monsters Inc.</i> (2001). </p>
+                <p class="para"> Plot 2: Ragtag group tries to solve a major problem.</p>
+                <p class="para">I think of: <i>Marvel: Infinity War</i> (2018), <i>Star Wars</i> (1978 – 2017), <i>The Goonies</i> (1985), <i>Balto</i> (1995), and <i>Guardians of the Galaxy</i> (2014).</p>
+                <p class="para">Plot 3: Intergalactic traveler ruins group outing.</p>
+                <p class="para">I think of: <i>Super 8</i> (2011), <i>E.T.</i> (1982), <i>Superman</i> (1938 – 2017), <i>Alien</i> (1979), <i>Galaxy Quest</i> (1999), <i>The Last Starfighter</i> (1984), and <i>Hitchhikers Guide to the Galaxy</i> (2005). </p>
+                <p class="para">So, I think we can agree that there are already repeating elements and ideas, and despite that repetition, it has not necessarily affected our enjoyment of the content.</p>
+               
+                <h3>TL;DR</h3>
+                <p class="para">If you read the first two paragraphs, and thought, “This is interesting, but far too many words,” then here is the short version:</p>
+                <p class="para">Human attention spans are decreasing, but this is not inherently bad news. Elements in media recycle ideas and are getting repetitive, but this is not inherently bad news. </p>
+                <p class="para">Good news: our brains are plastic enough to learn how to be more attentive when necessary. Good news: media has always carried similar underlying themes, so as our brains further advance, so will our media.</p>
+                
+                
+            <section>
+         </section>
+                
