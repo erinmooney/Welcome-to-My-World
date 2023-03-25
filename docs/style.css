@@ -88,9 +88,6 @@ max-width:500px;width:50%;
 
 p.solid {border-style: solid;}
 
-ol {list-style-type: lower-alpha;
-padding: 5em;  
-}
 
 div.newspaper
  {
@@ -163,9 +160,23 @@ div.menuA {text-align: center; font-size: 2vw;
  
 h1 {text-align: center;}
  
-h2 {text-align: center;}
+h2 {text-align: center;
+margin-bottom: -22px;
+margin-top: 60px;}
 
 h3 {text-align: center;}
+
+
+ul {
+   margin-top: -10px;
+   margin-bottom: -10px;
+}
+
+ol {
+   margin-top: -10px;
+   margin-bottom: -10px;
+padding: 5em;  
+}
 
 .seg {
   background-color: lavender; 
@@ -193,7 +204,9 @@ h3 {text-align: center;}
   text-align: left;
   width: 750px;
   margin: auto;
+  margin-bottom: -50px;
   padding: 35px;
+  line-height: inherit;
 }
   
  .parares { 
@@ -211,4 +224,148 @@ h3 {text-align: center;}
   margin: auto;
   padding: 35px;
 }
+
+
+/* POSTS */
+
+.blockQuote {
+  list-style-type: none;
+  text-align: left;
+  width: 700px;
+  margin: auto;
+  padding: 30px;
+  line-height: inherit;
+}
+
+.blockQuoteImg {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+}
+
+/*img {
+  object-fit: contain;
+  max-width: 300px;
+  max-height: 500px;
+ 
+}*/
+
+.guessImg {
+  object-fit: contain;
+  max-width: 300px;
+  max-height: 500px;
+}
+
+.capt {
+    text-align: center;
+    font-style: italic;
+}
+
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.singleImg {
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.twoCenterFix {
+  object-fit: contain;
+  max-height: 650px;
+  max-width: 100%;
+  box-sizing: border-box;
+  
+  float: left;
+  width: 50%;
+  padding: 10px;
+height: 1100px;
+justify-content: center;
+margin-bottom: 25px;
+}
+
+.twoCenter {
+  object-fit: contain;
+/*  max-width: 300px;
+  max-height: 500px;*/
+  max-width: 100%;
+  box-sizing: border-box;
+  
+  float: left;
+  width: 50%;
+  padding: 40px;
+height: 750px;
+justify-content: center;
+}
+
+.twoCenterTXT {
+
+  list-style-type: none;
+  text-align: left;
+  line-height: inherit;
+    max-width: 100%;
+  box-sizing: border-box;
+  
+   float: left;
+
+  width: 50%;
+  margin: auto;
+  text-indent: 250px;
+}
+
+.twoCenterTXT2 {
+display:block;
+text-align: justify;
+  list-style-type: none;
+  text-align: center;
+  line-height: inherit;
+  box-sizing: border-box;
+  
+  float: left;
+
+  width: 700px;
+  margin: auto;
+  text-indent: 200px;
+}
+
+/*display: flex;
+align-content: center;
+flex-direction:row;
+justify-content: center;
+flex-wrap: wrap;
+flex-basis: auto;*/
+
+.oneCenter {
+  object-fit: contain;  
+  max-width:350px;width:50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px;
+  
+display: block;
+align-content: center;
+flex-direction:row;
+justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
   
