@@ -311,6 +311,7 @@ justify-content: center;
 .twoCenterTXT {
 
   list-style-type: none;
+  font-size: 12pt;
   text-align: left;
   line-height: inherit;
     max-width: 100%;
@@ -320,11 +321,12 @@ justify-content: center;
 
   width: 50%;
   margin: auto;
-  text-indent: 250px;
+  text-indent: 160px;
 }
 
 .twoCenterTXT2 {
 display:block;
+font-size: 10pt;
 text-align: justify;
   list-style-type: none;
   text-align: center;
